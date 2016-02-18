@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+["], "command": "run_macro_file", "args": {"file": "res://Packages/User/brace.sublime-macro"} },
+	{ "keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "res://Packages/User/semic.sublime-macro"} },
+	{ "keys": ["alt+c"], "command": "run_macro_file", "args": {"file": "res://Packages/User/cc.sublime-macro"} },
+	{ "keys": ["ctrl+,"], "command": "run_macro_file", "args": {"file": "res://Packages/User/comma.sublime-macro"} },
+]

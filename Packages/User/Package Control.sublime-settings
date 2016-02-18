@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Emmet",
+		"ES6-Toolkit",
+		"HTML Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"JSX",
+		"Package Control",
+		"Pretty JSON",
+		"ReactJS",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Theme - Soda",
+		"Theme - Vim Blackboard"
+	]
+}
