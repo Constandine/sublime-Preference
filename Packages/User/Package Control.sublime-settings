@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"ConvertToUTF8",
 		"Emmet",
 		"ES6-Toolkit",

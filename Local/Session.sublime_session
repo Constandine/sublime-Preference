@@ -1938,25 +1938,16 @@
 			},
 			"expanded_folders":
 			[
-				"/D/joox-op",
-				"/D/joox-op/joox-bootstrap-4-theme",
-				"/D/joox-op/src",
-				"/D/joox-op/src/components",
-				"/D/joox-op/src/components/Form",
-				"/D/joox-op/src/page/lyrics/font",
-				"/D/joox-op/src/page/payment",
-				"/D/joox-op/src/page/payment/banner",
-				"/D/duz",
-				"/D/duz/components",
-				"/D/duz/components/Form"
+				"/D/joox-op"
 			],
 			"file_history":
 			[
-				"/D/joox-op/src/components/Form/index.js",
-				"/D/duz/components/Form/index.js",
-				"/D/duz/components/Form/Text.jsx",
-				"/D/joox-op/src/components/Form/Form.jsx",
+				"/D/joox-op/node_modules/duz/components/Form/Form.jsx",
 				"/D/duz/components/Form/Form.jsx",
+				"/D/joox-op/src/components/Form/Form.jsx",
+				"/D/duz/components/Form/Text.jsx",
+				"/D/duz/components/Form/index.js",
+				"/D/joox-op/src/components/Form/index.js",
 				"/D/joox-op/src/components/Form/Text.jsx",
 				"/D/joox-op/src/components/Form/validation.js",
 				"/D/duz/components/Form/validation.js",
@@ -2078,8 +2069,7 @@
 				"/D/joox-op-2/src/components/Form/Text.jsx",
 				"/D/joox-op-2/src/page/payment/product/components/Testtext.jsx",
 				"/D/joox-op-2/src/page/payment/product/components/SingleAreaPageEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/Edit.jsx",
-				"/D/joox-op-2/src/components/TablePlus.jsx/Table.jsx"
+				"/D/joox-op-2/src/page/payment/product/Edit.jsx"
 			],
 			"find":
 			{
@@ -2307,7 +2297,7 @@
 				"cols":
 				[
 					0.0,
-					0.597264272994,
+					0.504398344335,
 					1.0
 				],
 				"rows":
@@ -2326,7 +2316,7 @@
 				"height": 168.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1053,1891,57,3573",
+			"position": "0,2,3,-1,-1,-1,-1,1132,1752,136,3434",
 			"project": "",
 			"replace":
 			{
@@ -2341,7 +2331,11 @@
 				[
 					[
 						"form.jsx",
-						"duz\\components\\Form\\Form.jsx"
+						"joox-op\\node_modules\\duz\\components\\Form\\Form.jsx"
+					],
+					[
+						"form",
+						"joox-op\\src\\components\\Form\\Form.jsx"
 					],
 					[
 						"dict.js",
@@ -2370,10 +2364,6 @@
 					[
 						"dict",
 						"src\\tool\\dict.js"
-					],
-					[
-						"form",
-						"src\\components\\Form\\Form.jsx"
 					],
 					[
 						"product/edit",

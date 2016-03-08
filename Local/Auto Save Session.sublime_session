@@ -1742,11 +1742,19 @@
 			"buffers":
 			[
 				{
-					"file": "/D/joox-op/pkg.sh",
+					"file": "/D/joox-op/src/page/ad/apps/Edit.jsx",
 					"settings":
 					{
-						"buffer_size": 1647,
-						"line_ending": "Windows"
+						"buffer_size": 11477,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 695,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -1757,10 +1765,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 164.0,
-				"last_filter": "sshtml",
+				"height": 375.0,
+				"last_filter": "preferen",
 				"selected_items":
 				[
+					[
+						"preferen",
+						"Preferences: Settings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"sshtml",
 						"Set Syntax: HTML"
@@ -1784,10 +1800,6 @@
 					[
 						"vim",
 						"View: Toggle Minimap"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"ssjson",
@@ -1926,7 +1938,7 @@
 						"Set Syntax: HTML"
 					]
 				],
-				"width": 402.0
+				"width": 450.0
 			},
 			"console":
 			{
@@ -1946,15 +1958,11 @@
 			},
 			"expanded_folders":
 			[
-				"/D/joox-op/joox-bootstrap-4-theme",
-				"/D/joox-op/src",
-				"/D/joox-op/src/components",
-				"/D/joox-op/src/components/Form",
-				"/D/duz/components",
-				"/D/duz/components/Form"
+				"/D/joox-op"
 			],
 			"file_history":
 			[
+				"/D/joox-op/node_modules/duz/components/Form/Form.jsx",
 				"/D/duz/components/Form/Form.jsx",
 				"/D/joox-op/src/components/Form/Form.jsx",
 				"/D/duz/components/Form/Text.jsx",
@@ -2081,8 +2089,7 @@
 				"/D/joox-op-2/src/components/Form/Text.jsx",
 				"/D/joox-op-2/src/page/payment/product/components/Testtext.jsx",
 				"/D/joox-op-2/src/page/payment/product/components/SingleAreaPageEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/Edit.jsx",
-				"/D/joox-op-2/src/components/TablePlus.jsx/Table.jsx"
+				"/D/joox-op-2/src/page/payment/product/Edit.jsx"
 			],
 			"find":
 			{
@@ -2264,45 +2271,67 @@
 			[
 				{
 					"path": "D:\\joox-op"
-				},
-				{
-					"path": "D:\\duz"
 				}
 			],
 			"groups":
 			[
 				{
-					"sheets":
-					[
-					]
-				},
-				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/joox-op/pkg.sh",
-							"semi_transient": true,
+							"file": "/D/joox-op/src/page/ad/apps/Edit.jsx",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1647,
+								"buffer_size": 11477,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										9645,
+										9645
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JSX/JSX.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8022.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 695,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										692,
+										692
 									]
 								],
 								"settings":
 								{
 									"origin_encoding": "ASCII",
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2311,6 +2340,11 @@
 							"stack_index": 0,
 							"type": "text"
 						}
+					]
+				},
+				{
+					"sheets":
+					[
 					]
 				}
 			],
@@ -2342,7 +2376,7 @@
 				"cols":
 				[
 					0.0,
-					0.504398344335,
+					0.888777188123,
 					1.0
 				],
 				"rows":
@@ -2361,7 +2395,7 @@
 				"height": 168.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1026,-29,30,1653",
+			"position": "0,2,3,-1,-1,-1,-1,1042,-113,46,1569",
 			"project": "",
 			"replace":
 			{
@@ -2375,12 +2409,16 @@
 				"selected_items":
 				[
 					[
-						"form",
-						"joox-op\\src\\components\\Form\\Form.jsx"
+						"apps/edit",
+						"src\\page\\ad\\apps\\Edit.jsx"
 					],
 					[
 						"form.jsx",
-						"duz\\components\\Form\\Form.jsx"
+						"joox-op\\node_modules\\duz\\components\\Form\\Form.jsx"
+					],
+					[
+						"form",
+						"joox-op\\src\\components\\Form\\Form.jsx"
 					],
 					[
 						"dict.js",
@@ -2881,10 +2919,6 @@
 					[
 						"mymuej",
 						"express\\src\\template\\myMusic.ejs"
-					],
-					[
-						"mymusic",
-						"express\\routes\\myMusic.js"
 					]
 				],
 				"width": 0.0
@@ -2907,15 +2941,15 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 294.0,
+			"side_bar_width": 50.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
