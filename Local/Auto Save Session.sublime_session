@@ -1,8 +1,10 @@
 {
 	"folder_history":
 	[
-		"/D/duz",
+		"/D/joox-op/node_modules/duz/tool/store",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3",
 		"/D/joox-op",
+		"/D/duz",
 		"/F/redux-example-master",
 		"/D/joox-op-2",
 		"/E/wdw/views",
@@ -15,11 +17,11 @@
 		"/D/WeChatMusic_proj/trunk/project/express"
 	],
 	"last_version": 3103,
-	"last_window_id": 17,
+	"last_window_id": 31,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 938.0,
+		"new_window_height": 933.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -27,16 +29,332 @@
 				"selected_items":
 				[
 					[
-						"Form",
-						"Form"
+						"auth",
+						"auth_getGroups"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"acti",
+						"activity_id"
+					],
+					[
+						"activid",
+						"activity_id"
+					],
+					[
+						"hande",
+						"handleNewActive"
 					],
 					[
 						"handle",
-						"handleMarketChange"
+						"handleSubmit"
+					],
+					[
+						"vali",
+						"validation"
+					],
+					[
+						"valid",
+						"validate"
+					],
+					[
+						"lyric",
+						"lyric_images"
+					],
+					[
+						"ulr",
+						"sortUrl"
+					],
+					[
+						"url",
+						"sortUrl"
+					],
+					[
+						"Mark",
+						"MarketChange"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"market",
+						"marketSelector"
+					],
+					[
+						"mark",
+						"marketList"
+					],
+					[
+						"product",
+						"product_id"
+					],
+					[
+						"showN",
+						"showNewActiveDom"
+					],
+					[
+						"handleSubmit",
+						"handleSubmitActive"
+					],
+					[
+						"id",
+						"activity_id"
+					],
+					[
+						"defau",
+						"defaultBtns"
+					],
+					[
+						"isR",
+						"isRefetch"
+					],
+					[
+						"activ",
+						"activtiy"
+					],
+					[
+						"active",
+						"renderActive"
+					],
+					[
+						"prodcut",
+						"product_name"
+					],
+					[
+						"zh_",
+						"zh_TW"
+					],
+					[
+						"prou",
+						"product_name"
+					],
+					[
+						"bool",
+						"boolean"
+					],
+					[
+						"props",
+						"PropTypes"
+					],
+					[
+						"upd",
+						"updateFields"
+					],
+					[
+						"te",
+						"tempTest"
+					],
+					[
+						"plat",
+						"platformId"
+					],
+					[
+						"inter",
+						"interact_func"
+					],
+					[
+						"update",
+						"updateData"
+					],
+					[
+						"banner_",
+						"banner_list"
+					],
+					[
+						"lange",
+						"language2"
+					],
+					[
+						"promise",
+						"Promise"
+					],
+					[
+						"async",
+						"asyncValid"
+					],
+					[
+						"UPDA",
+						"updateData"
+					],
+					[
+						"inse",
+						"insetDData"
+					],
+					[
+						"Ul",
+						"upload_image"
+					],
+					[
+						"string",
+						"string	React.PropTypes.string"
+					],
+					[
+						"number",
+						"Number"
+					],
+					[
+						"image",
+						"imageType"
+					],
+					[
+						"clasN",
+						"classNames"
+					],
+					[
+						"media",
+						"media-object"
+					],
+					[
+						"float",
+						"float-layer"
+					],
+					[
+						"classN",
+						"className"
+					],
+					[
+						"item",
+						"itemState"
+					],
+					[
+						"app",
+						"apps_list"
+					],
+					[
+						"app_li",
+						"apps_list"
+					],
+					[
+						"ti",
+						"title"
+					],
+					[
+						"new",
+						"newdata"
+					],
+					[
+						"page",
+						"page_setting"
+					],
+					[
+						"banner",
+						"bannerList"
+					],
+					[
+						"img",
+						"img_url"
+					],
+					[
+						"retur",
+						"returnList"
+					],
+					[
+						"reques",
+						"requestFunc"
+					],
+					[
+						"apps",
+						"apps_list"
 					],
 					[
 						"fields",
-						"fields"
+						"fieldStatus"
+					],
+					[
+						"languag",
+						"language2"
+					],
+					[
+						"Dict",
+						"DICT"
+					],
+					[
+						"valida",
+						"validation"
+					],
+					[
+						"puib",
+						"publishView"
+					],
+					[
+						"glo",
+						"globalValidate"
+					],
+					[
+						"gloaba",
+						"globalStatus"
+					],
+					[
+						"defaut",
+						"defaultValue"
+					],
+					[
+						"defaul",
+						"defaultValue"
+					],
+					[
+						"valita",
+						"validation"
+					],
+					[
+						"propTy",
+						"PropTypes"
+					],
+					[
+						"func",
+						"validateFunc"
+					],
+					[
+						"platfo",
+						"platform"
+					],
+					[
+						"platform",
+						"platform"
+					],
+					[
+						"fun",
+						"function	React.PropTypes.func"
+					],
+					[
+						"的",
+						"的验证"
+					],
+					[
+						"a",
+						"aaa"
+					],
+					[
+						"protype",
+						"PropTypes"
+					],
+					[
+						"grou",
+						"groupBy"
+					],
+					[
+						"test",
+						"testing"
+					],
+					[
+						"crea",
+						"createFields"
+					],
+					[
+						"maer",
+						"marketSelect"
+					],
+					[
+						"multi",
+						"multi_imgurl"
+					],
+					[
+						"Form",
+						"Form"
 					],
 					[
 						"forma",
@@ -99,16 +417,8 @@
 						"if_active"
 					],
 					[
-						"activ",
-						"activity_id"
-					],
-					[
 						"prom",
 						"promotions"
-					],
-					[
-						"acti",
-						"activities"
 					],
 					[
 						"tem",
@@ -119,16 +429,8 @@
 						"product_name"
 					],
 					[
-						"test",
-						"Testtext"
-					],
-					[
 						"activity",
 						"activity_id"
-					],
-					[
-						"product",
-						"product_id"
 					],
 					[
 						"defalu",
@@ -219,16 +521,8 @@
 						"activities"
 					],
 					[
-						"new",
-						"newActiveFields"
-					],
-					[
 						"activit",
 						"activity_id"
-					],
-					[
-						"active",
-						"activeStatus"
 					],
 					[
 						"titl",
@@ -245,94 +539,6 @@
 					[
 						"fiels",
 						"fields"
-					],
-					[
-						"avit",
-						"activity_valid"
-					],
-					[
-						"zh",
-						"zh_tw"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"time",
-						"timestamp"
-					],
-					[
-						"err",
-						"error	.error()"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"z",
-						"z-index"
-					],
-					[
-						"favlist",
-						"favlist"
-					],
-					[
-						"ajax",
-						"ajaxCD"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"borderb",
-						"border-bottom"
-					],
-					[
-						"bordre",
-						"border-width"
-					],
-					[
-						"borco",
-						"border-color"
-					],
-					[
-						"bor",
-						"border-style"
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"paddingt",
-						"padding-left"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"stati",
-						"staticPage"
-					],
-					[
-						"vip",
-						"VIP服务"
-					],
-					[
-						"vipser",
-						"vipServer"
 					]
 				]
 			},
@@ -342,10 +548,102 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 164.0,
-				"last_filter": "sshtml",
+				"height": 354.0,
+				"last_filter": "intall",
 				"selected_items":
 				[
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"preferen",
+						"Preferences: Settings - User"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"prefeten",
+						"Preferences: Settings - User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"referec",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"preference",
+						"Preferences: Settings - Default"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"js",
+						"Set Syntax: JSX"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"jsoxn",
+						"Pretty JSON: JSON 2 XML"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
 					[
 						"sshtml",
 						"Set Syntax: HTML"
@@ -355,24 +653,12 @@
 						"HTMLPrettify"
 					],
 					[
-						"json",
-						"Set Syntax: JSON"
-					],
-					[
-						"jsx",
-						"Set Syntax: JSX"
-					],
-					[
 						"ssjsx",
 						"Set Syntax: JSX"
 					],
 					[
 						"vim",
 						"View: Toggle Minimap"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"ssjson",
@@ -395,19 +681,11 @@
 						"Snippet: React: isMounted()"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"removei",
 						"Package Control: Remove Repository"
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					],
 					[
@@ -463,10 +741,6 @@
 						"Emmet: Toggle Comment"
 					],
 					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
 						"disa",
 						"Package Control: Disable Package"
 					],
@@ -491,10 +765,6 @@
 						"Snippet: Lorem ipsum"
 					],
 					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
 						"",
 						":$ - EOF"
 					],
@@ -511,7 +781,7 @@
 						"Set Syntax: HTML"
 					]
 				],
-				"width": 402.0
+				"width": 462.0
 			},
 			"console":
 			{
@@ -531,144 +801,158 @@
 			},
 			"file_history":
 			[
-				"/D/joox-op/src/page/rules/List.jsx",
-				"/D/Wechat Payment/banner_输出api.txt",
-				"/D/Wechat Payment/banner_api.txt",
-				"/D/协议软件使用过程遇到的问题.txt",
-				"/F/joox-cms-doc-helper/index.js",
-				"/D/Wechat Payment/商品列表配置首页api.txt",
-				"/D/运营平台/joox.new.api.rule.txt",
-				"/D/运营平台/wechat_payment商品列表配置.txt",
-				"/D/运营平台/歌词海报.txt",
-				"/D/remote.txt",
-				"/D/joox-op/src/page/payment/product/Edit.jsx",
-				"/D/joox-op/gitbook/3.2.components.md",
-				"/D/joox-op/src/components/Form/Form.jsx",
-				"/D/joox-op/src/page/payment/banner/List.jsx",
-				"/D/joox-op/src/tool/dict.js",
-				"/D/joox-op/src/page/payment/product/List.jsx",
-				"/D/joox-op/src/page/payment/banner/Edit.jsx",
-				"/D/joox-op/src/components/Form/Tips.jsx",
-				"/D/joox-op/src/components/Form/TagInput.jsx",
-				"/D/joox-op/src/components/Form/Text.jsx",
-				"/D/joox-op/src/demo.js",
-				"/D/joox-op/src/index.js",
-				"/C/Users/Administrator/Desktop/test.html",
-				"/D/joox-op/node_modules/redux-form/lib/getValues.js",
-				"/D/joox-op/src/tool/utils/validation.js",
-				"/D/运营平台/登录&用户信息.TXT",
-				"/D/joox-op/src/components/Form/Field.jsx",
-				"/D/joox-op/src/components/Form/File.jsx",
-				"/C/Users/Administrator/Desktop/some.html",
-				"/D/joox-op/src/page/lyrics/font/Edit.jsx",
-				"/D/joox-op/src/page/rules/Edit.jsx",
-				"/D/joox-op/src/components/Form/DateRange.jsx",
-				"/D/joox-op/src/components/Form/Checkbox.jsx",
-				"/D/joox-op/src/components/Form/Switch.jsx/index.js",
-				"/D/joox-op/src/components/Form/Select.jsx",
-				"/D/joox-op/src/page/payment/product/components/MultiAreaEdit.jsx",
-				"/D/joox-op/src/components/Form/Switch.jsx/my-checkbox.css",
-				"/D/joox-op/src/page/payment/product/components/SingleAreaEdit.jsx",
-				"/D/joox-op/src/page/payment/banner/list.jsx",
+				"/D/joox-op/node_modules/duz/tool/store/form.js",
+				"/D/joox-op/node_modules/duz/tool/store/config.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/joox-op/node_modules/duz/components/Form/Form.jsx",
+				"/D/joox-op/src/config/api/config.js",
+				"/D/joox-op/src/page/ugc/activity/List.jsx",
+				"/D/joox-op/src/components/CardPlus.jsx",
+				"/D/joox-op/node_modules/duz/components/Page/pageDecorator.js",
+				"/D/joox-op/node_modules/duz/scss/joox/_joox-loader.scss",
+				"/D/joox-op/src/page/NO_AUTH.jsx",
+				"/D/joox-op/node_modules/duz/components/UI/Fail.jsx",
+				"/D/joox-op/src/page/no_auth.jsx",
+				"/D/joox-op/src/page/404.jsx",
 				"/D/joox-op/src/page/lyrics/font/List.jsx",
-				"/D/joox-op/src/routes/index.js",
-				"/D/joox-op/src/page/payment/banner/edit.jsx",
-				"/D/joox-op/src/page/drag/index.jsx",
-				"/D/joox-op/gitbook/3.1.page.md",
-				"/D/joox-op/gitbook/SUMMARY.md",
-				"/D/joox-op/gitbook/3.3.tool.md",
-				"/D/joox-op/gitbook/glossary.md",
-				"/D/joox-op/gitbook/README.md",
-				"/D/joox-op/src/components/Form/index.js",
-				"/D/joox-op/src/components/Form/Switch2.jsx",
-				"/D/joox-op/src/components/Form/my-checkbox.css",
-				"/D/joox-op/node_modules/react-bootstrap-switch/react-bootstrap-switch/test/bootstrap-switch.js",
-				"/D/joox-op/src/components/Form/Switch.jsx",
-				"/D/joox-op/src/page/App.jsx/Nav.jsx",
-				"/D/joox-op/src/page/App.jsx/Login.jsx",
-				"/D/joox-op/src/page/App.jsx/RouteTransition.jsx",
-				"/D/joox-op/src/page/App.jsx/index.js",
-				"/D/joox-op/src/page/App.jsx/Init.jsx",
-				"/D/joox-op/src/page/App.jsx/Toolbar.jsx",
-				"/C/Users/Administrator/Desktop/回归后数据.txt",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/joox-op/src/page/payment/product/components/MultiAreaList.jsx",
-				"/D/joox-op/src/components/TablePlus.jsx/index.js",
-				"/F/ssh_joox_pp.js",
-				"/D/joox-op/src/index.html",
-				"/F/ssh_joox_portal_pp.js",
-				"/D/joox-op/.bowerrc",
+				"/D/joox-op/src/page/ad/banner/List.jsx",
+				"/D/joox-op/src/page/lyrics/image/List.jsx",
+				"/D/joox-op/src/page/payment/product/List.jsx",
+				"/D/joox-op/src/page/payment/banner/List.jsx",
 				"/D/joox-op/src/page/rules/Log.jsx",
-				"/D/joox-op/src/page/rules/TabNav.jsx",
-				"/F/.bashrc",
-				"/F/商品列表配置首页api.txt",
-				"/F/商品列表配置首页_输出api.txt",
-				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/wxpay_product.json",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.289/gonup/.bashrc",
-				"/D/joox-op/local2debug.sh",
-				"/C/Users/Administrator/Desktop/wechat_paymente.txt",
-				"/C/Users/Administrator/Desktop/wechat_payment%e5%95%86%e5%93%81%e5%88%97%e8%a1%a8%e9%85%8d%e7%bd%ae.txt",
-				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/.bashrc",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.669/README.md",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.031/gonup/py/go.py",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.993/gonup/py/config.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.104/.bashrc",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.110/README.md",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.701/install.gonupv2.joox.sh",
-				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/install.gonupv2.joox.sh",
-				"/D/joox-op/package.json",
-				"/D/joox-op/get_webpack_config.js",
-				"/D/joox-op/node_modules/react-bootstrap-switch/dist/js/react-bootstrap-switch.js",
-				"/D/joox-op/node_modules/react-bootstrap-switch/package.json",
-				"/D/joox-op/src/page/Home.jsx",
-				"/D/joox-op/src/page/payment/product/components/MultiAreaPageEdit.jsx",
-				"/D/joox-op/src/page/payment/product/components/SingleAreaPageEdit.jsx",
-				"/D/joox-op/node_modules/redux-form/dist/redux-form.js",
-				"/D/joox-op/src/tool/api/config.js",
-				"/D/joox-op/src/components/Form/Static.jsx",
-				"/D/joox-op/src/components/Form/Datetime.jsx",
-				"/D/joox-op/src/tool/api/queue.js",
-				"/D/joox-op/src/tool/api/index.js",
-				"/D/joox-op-2/src/page/payment/product/components/MultiAreaPageEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/MultiAreaEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/SingleAreaEdit.jsx",
-				"/D/joox-op-2/src/components/Form/Static.jsx",
-				"/D/joox-op-2/src/components/Form/Text.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/Testtext.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/SingleAreaPageEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/Edit.jsx",
-				"/D/joox-op-2/src/components/TablePlus.jsx/Table.jsx",
-				"/D/joox-op-2/src/components/Form/Checkbox.jsx",
-				"/D/joox-op/src/page/payment/product/components/Testtext.jsx",
-				"/D/joox-op-2/package.json",
-				"/D/joox-op/bower.json",
-				"/D/joox-op/src/components/Form/Testtext.jsx",
-				"/D/joox-op/src/components/Form/MultiAreaPageEdit.jsx",
-				"/D/joox-op/src/components/Form/SingleAreaPageEdit.jsx",
-				"/D/joox-op/node_modules/redux-form/lib/createReduxForm.js",
-				"/E/Sputnik/app/node_modules/cheerio/lib/static.js",
-				"/D/joox-op/node_modules/react-bootstrap-datetimepicker/lib/DateTimeField.js",
-				"/D/joox-op/src/components/Form/MultiAreaEdit.jsx",
-				"/E/wdw/routes/index.js",
-				"/D/joox-op/src/components/Form/SingleAreaEdit.jsx",
-				"/D/joox-op/src/components/Form/MultiAreaList.jsx",
-				"/D/joox-op/src/components/Form/ArrayField.jsx",
-				"/D/joox-op/src/scss/main.scss",
-				"/D/joox-op/node_modules/bootstrap/scss/bootstrap.scss",
-				"/D/joox-op/src/components/Form/Container.jsx",
+				"/D/joox-op/src/page/rules/List.jsx",
+				"/D/joox-op/src/config/markets.js",
+				"/D/joox-op/src/page/ad/apps/List.jsx",
+				"/D/joox-op/node_modules/duz/tool/auth.js",
+				"/D/joox-op/node_modules/duz/tool/__test__/auth.js",
+				"/D/joox-op/src/page/ad/apps/Edit.jsx",
+				"/D/joox-op/TODO-derek.json",
+				"/D/joox-op/src/page/drag/index.jsx",
+				"/D/joox-op/node_modules/duz/tool/store/auth.js",
+				"/D/joox-op/node_modules/duz/tool/store/index.js",
+				"/D/joox-op/src/page/payment/product/Edit2.jsx",
+				"/D/joox-op/node_modules/duz/components/Form/readOnlyAuto.js",
+				"/D/joox-op/src/page/payment/banner/Edit.jsx",
+				"/D/joox-op/src/page/ugc/activity/Comments.jsx",
+				"/D/joox-op/src/page/ugc/activity/Edit.jsx",
+				"/D/joox-op/src/page/payment/product/Edit.jsx",
+				"/D/joox-op/node_modules/duz/components/Form/TabForm.jsx",
+				"/D/joox-op/src/page/App.jsx/style.scss",
+				"/D/joox-op/node_modules/duz/example/UI.jsx",
+				"/D/joox-op/src/routes/index.js",
+				"/D/joox-op/node_modules/duz/components/Form/Field/index.js",
+				"/D/joox-op/src/page/ad/banner/Edit.jsx",
+				"/D/joox-op/src/config/api/ad.js",
+				"/D/joox-op/src/config/api/payment.js",
+				"/D/joox-op/node_modules/express/lib/router/index.js",
+				"/D/joox-op/node_modules/react-router/es6/Router.js",
+				"/D/joox-op/node_modules/duz/components/Form/File/index.js",
+				"/D/joox-op/src/components/ImageList.jsx/index.js",
+				"/D/joox-op/src/components/ImageList.jsx/File.jsx",
+				"/D/运营平台/incentive_ad.txt",
+				"/D/运营平台/角色权限控制.TXT",
+				"/D/joox-op/node_modules/duz/tool/store/feature.js",
+				"/D/joox-op/src/config/store/user.js",
+				"/D/joox-op/node_modules/acorn/AUTHORS",
+				"/D/joox-op/node_modules/duz/tool/validation.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/joox-op/src/config/dict.js",
+				"/D/运营平台/歌曲权限配置.TXT",
+				"/D/joox-op/src/config/api/rules.js",
+				"/D/joox-op/src/page/rules/Edit.jsx",
+				"/D/joox-op/src/config/api/index.js",
+				"/D/运营平台/wechat_payment商品列表配置.txt",
+				"/D/joox-op/src/page/lyrics/font/Edit.jsx",
+				"/D/joox-op/src/config/api/lyrics.js",
 				"/D/joox-op/src/page/lyrics/image/Edit.jsx",
-				"/D/joox-op/node_modules/bootstrap/scss/_forms.scss",
-				"/D/joox-op/node_modules/bootstrap/scss/mixins/_forms.scss"
+				"/D/运营平台/歌词海报.txt",
+				"/D/joox-op/src/config/api/activity.js",
+				"/D/joox-op/node_modules/duz/components/Form/Static.jsx",
+				"/D/joox-op/node_modules/duz/scss/_custom.scss",
+				"/D/joox-op/src/page/payment/product/components/MultiAreaEdit.jsx",
+				"/D/joox-op/src/page/payment/product/components/SingleAreaPageEdit.jsx",
+				"/D/joox-op/src/page/payment/product/components/MultiAreaPageEdit.jsx",
+				"/D/joox-op/src/page/payment/product/components/SingleAreaEdit.jsx",
+				"/D/joox-op/src/page/payment/product/components/MultiAreaList.jsx",
+				"/D/运营平台/banner_protocol.txt",
+				"/D/运营平台/ugc&activity.txt",
+				"/C/Users/Administrator/Desktop/接口变更（权限）.txt",
+				"/D/joox-op/src/components/MarketCard.jsx",
+				"/D/joox-op/src/components/market.jsx",
+				"/D/joox-op/src/page/Home.jsx",
+				"/D/joox-op/.gitmodules",
+				"/D/joox-op/node_modules/duz/components/Form/Switch.jsx/index.js",
+				"/D/joox-op/node_modules/duz/components/Form/Text.jsx",
+				"/D/joox-op/node_modules/serve-index/public/style.css",
+				"/D/joox-op/node_modules/duz/components/UI/Card.jsx",
+				"/D/joox-op/node_modules/caniuse-db/features-json/offline-apps.json",
+				"/D/joox-op/node_modules/duz/components/Page/index.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/joox-op/_local2/local2debug.js",
+				"/D/joox-op/node_modules/duz/tool/utils.js",
+				"/D/joox-op/node_modules/duz/package.json",
+				"/D/joox-op/package.json",
+				"/D/joox-op/node_modules/ziey-i18n-loader/package.json",
+				"/D/joox-op/_local2/local2build.js",
+				"/D/joox-op/node_modules/duz/components/Form/createValidator.js",
+				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/tmp_cp_duz.sh",
+				"/D/joox-op/src/components/ImageList.jsx/ImageList.css",
+				"/C/Users/Administrator/Desktop/object-reduct-testcase.txt",
+				"/D/joox-op/node_modules/duz/node_modules/react-redux/package.json",
+				"/D/joox-op/node_modules/duz/node_modules/react-redux/README.md",
+				"/D/joox-op/node_modules/react-redux/README.md",
+				"/D/joox-op/node_modules/react-redux/package.json",
+				"/D/joox-op/node_modules/font-awesome/package.json",
+				"/D/joox-op/src/config/activity.js",
+				"/D/joox-op/local2debug.sh",
+				"/C/Users/Administrator/Desktop/更新.txt",
+				"/C/Users/Administrator/Desktop/TODO-derek.json",
+				"/D/joox-op/_local2/local.config.js",
+				"/D/joox-op/src/components/ImageUpload.jsx",
+				"/D/joox-op/node_modules/webpack-dev-server/client/style.css",
+				"/C/Users/Administrator/Desktop/转正申请.txt",
+				"/D/joox-op/node_modules/duz/components/Form/Datetime.jsx",
+				"/D/joox-op/src/components/DurationSearch.jsx",
+				"/D/joox-op/src/config/utils/validation.js",
+				"/D/joox-op/node_modules/webpack-stream/node_modules/vinyl-sourcemaps-apply/node_modules/source-map/lib/mapping-list.js",
+				"/D/joox-op/node_modules/duz/components/Form/Checkbox.jsx",
+				"/D/joox-op/node_modules/duz/tool/store/action.adjust.js",
+				"/D/joox-op/src/page/App.jsx/Popup.jsx/index.js",
+				"/C/Users/Administrator/Desktop/Edit.jsx",
+				"/D/joox-op/node_modules/react-bootstrap/node_modules/dom-helpers/ownerDocument.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Vintageous.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Vim Blackboard.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/D/joox-op/.gitignore",
+				"/D/joox-op/node_modules/duz/components/UI/Tooltips.jsx",
+				"/D/joox-op/node_modules/duz/components/Form/File.jsx",
+				"/C/Users/Administrator/Desktop/我的工作.json"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 52.0
 			},
 			"find_in_files":
 			{
 				"height": 122.0,
 				"where_history":
 				[
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\src\\page",
+					"D:\\joox-op\\page\\",
+					"D:\\joox-op\\page",
+					"D:\\joox-op\\node_modules\\duz",
 					"D:\\joox-op",
 					"D:\\joox-op\\src",
 					"D:\\joox-op",
@@ -692,141 +976,143 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"put",
-					"json",
-					"img_url",
-					"地区",
-					"upload",
-					"upload_img",
-					"地区",
-					"地区名",
-					"地区名字",
-					"upload_time",
-					"error",
-					"begin",
-					"required",
-					"handleChange",
-					"ontri",
-					"ontr",
-					"onchange",
-					"switch",
-					"handleChange",
-					"onchange",
-					"handleMarketChange",
-					"onchange",
-					"			<",
-					"handleMarketChange",
-					"handlemar",
-					"		\n",
-					"test",
-					"handleSubmit",
-					"handleMarketChange",
-					"BannerForm",
-					"market",
-					"test",
-					"onChange",
-					"handleChange",
-					"onchange",
-					"test",
-					"type",
-					"default",
-					"DICT.market",
-					"zh_TW",
-					"发布国家",
-					"fetchData",
-					"test",
-					"显示",
-					"area",
-					"asyncValidate",
-					"required",
-					"validation",
-					"isShowSwitch",
-					"showtips",
-					"文件大小",
-					"						)\n1000 x 1000",
-					"1000 x 1000",
-					">\n",
-					"true",
-					"默认",
-					"test",
-					"reduxForm",
-					"form",
-					"apply",
-					"renderFields",
-					"group",
-					"dictToOptions",
+					"handleToastr",
+					"isFooter",
+					"isfooter",
+					"fail",
+					"Fail",
+					"reload",
+					"auth",
+					"no_auth",
+					"LYRICS",
+					"AD",
+					"ad",
+					"200",
+					"   \n",
+					"Fail.jsx",
+					"960",
+					"已结束",
 					"checkbox",
-					"radio",
-					"handlesubmit",
-					"this",
-					"handleSubmit",
-					"onSubmit",
-					"custom",
-					"formFooter",
-					"hello",
-					"content",
-					"title",
-					"content",
-					"  ",
-					"static",
-					"handleSubmit",
-					"loader",
-					"true",
+					"未开始",
+					"dictToOptions",
 					"switch",
-					"publishview",
-					"publishView",
-					"handlePublis",
-					"handle",
-					"handlePublishViewChange",
-					"getData",
-					"handleMarketChange",
-					"handle",
-					"新增",
-					"className=\"btn btn-primary\"",
-					"lyrics",
+					"s",
+					"switch",
+					"活动开关",
+					".has-success",
+					"多语言信息",
+					"商品名",
+					"应用名称",
+					"config/utils",
+					"duz/tool/utils.js",
+					"import",
+					"config/utils",
+					"sortable",
+					"Links",
+					"Link",
+					"Lin",
+					"Link",
 					"DICT",
-					"getH",
-					"id",
-					"handleRemoveConfirm",
-					"{\n                key  : 'tools',\n                name : '{# 操作 #}',\n                format: (val, line)=> {\n                    console.log('who is this',this )\n                    return (\n                        <div>\n                            <Link to={ \"/lyrics/font/edit/\" + line.id } style={{marginRight: '1rem'}}>{# 编辑 #}</Link>\n                            <a onClick={this.handleRemoveConfirm.bind(this, line)} style={{cursor: 'pointer'}}>{# 删除 #}</a>\n                        </div>\n                    )\n                }\n            }",
-					"handleRemoveConfirm",
-					"false",
-					"20px",
-					"fields",
-					"getData",
-					"getdata",
-					"Data",
-					"data",
-					"getHeadBtns",
-					"swtich",
-					"bootstrap",
-					"containerWidth",
-					"classname",
-					"classnames",
-					"classNames",
-					"className",
-					"\">\n",
-					"api",
-					"Login",
-					"/payment/product/list",
-					"商品列表配置",
-					"if_active",
-					" =",
-					"{}",
-					"})",
-					"}a",
-					"handlesubmitac",
-					"activeField",
-					"返回",
-					"新建失败",
-					"handleNewActivity"
+					"Card",
+					"                    \n",
+					"connectDragSource",
+					"sort",
+					"setDrag",
+					"@SetDragDropContext()",
+					"matches",
+					".has-success",
+					".has-success .control-label,",
+					".has-success",
+					".has-success .control-label",
+					".has-success .control-label,",
+					"head-select",
+					"head-word",
+					"nav-item.head-word",
+					"header-area",
+					"nav-item.head-word",
+					"nav-item.head-select",
+					"header-area",
+					"card-block",
+					"padding: 1.25rem;",
+					"background-color: #fff !important;",
+					"    background-color: #fff !important;",
+					"card-block",
+					"Card",
+					"编辑",
+					"formatDate",
+					"imgDe",
+					"Card",
+					"card-block",
+					"Card",
+					"card-block",
+					"inline-block",
+					"ad-apps-Edit-image",
+					"nav-tabs",
+					"page-wrapper",
+					"main-page",
+					"status",
+					"label",
+					"1000",
+					"area",
+					"200",
+					"markEt",
+					"market",
+					"areaName",
+					"area",
+					"areaName",
+					"area",
+					"market",
+					"area",
+					"mm",
+					"area",
+					"market",
+					"area",
+					"market",
+					"area",
+					"banners/list",
+					"setFetchData",
+					"area",
+					"market",
+					"area",
+					"market",
+					"area",
+					"request",
+					"market",
+					"area",
+					"delete",
+					"removeActivity",
+					"this.props.request",
+					"debugger",
+					"payment/products/update",
+					"handleSubmit",
+					"handleSubmitActive",
+					"200px",
+					"layout",
+					"type",
+					"File",
+					"layout",
+					"mode",
+					"layout",
+					"screenshots",
+					"icon",
+					"msgStyle",
+					"icon",
+					"market",
+					"update",
+					"handleSubmitActive",
+					"Card",
+					"successNotify",
+					"failNotify",
+					"payment/products/active/delete"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": false,
+				"preserve_case": true,
 				"regex": false,
 				"replace_history":
 				[
+					"market",
+					"urlBase",
 					"handleSubmitActivity",
 					"li"
 				],
@@ -838,7 +1124,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 52.0
 			},
 			"input":
 			{
@@ -856,7 +1142,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 100.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -866,528 +1152,528 @@
 				"selected_items":
 				[
 					[
-						"validation",
-						"src\\tool\\utils\\validation.js"
+						"ui.jsx",
+						"node_modules\\duz\\example\\UI.jsx"
 					],
 					[
-						"validta",
-						"src\\components\\Form\\validation.js"
-					],
-					[
-						"dict",
-						"src\\tool\\dict.js"
-					],
-					[
-						"switch.jsx",
-						"src\\components\\Form\\Switch.jsx\\index.js"
-					],
-					[
-						"text.jsx",
-						"src\\components\\Form\\Text.jsx"
+						"lyrics/font/list",
+						"src\\page\\lyrics\\font\\List.jsx"
 					],
 					[
 						"form.jsx",
-						"src\\components\\Form\\Form.jsx"
+						"node_modules\\duz\\components\\Form\\Form.jsx"
 					],
 					[
-						"banner/lis",
+						"ugc/ac/list",
+						"src\\page\\ugc\\activity\\List.jsx"
+					],
+					[
+						"config/config",
+						"src\\config\\api\\config.js"
+					],
+					[
+						"todo",
+						"TODO-derek.json"
+					],
+					[
+						"duz/component/ui/fial",
+						"node_modules\\duz\\components\\UI\\Fail.jsx"
+					],
+					[
+						"pagede",
+						"node_modules\\duz\\components\\Page\\pageDecorator.js"
+					],
+					[
+						"cardplus",
+						"src\\components\\CardPlus.jsx"
+					],
+					[
+						"ad/banner/list",
+						"src\\page\\ad\\banner\\List.jsx"
+					],
+					[
+						"pay/banner/list",
 						"src\\page\\payment\\banner\\List.jsx"
-					],
-					[
-						"checkbox",
-						"src\\components\\Form\\Checkbox.jsx"
-					],
-					[
-						"list.jsx",
-						"src\\page\\payment\\banner\\List.jsx"
-					],
-					[
-						"product/list.jsx",
-						"src\\page\\payment\\product\\List.jsx"
-					],
-					[
-						"product/edit",
-						"src\\page\\payment\\product\\Edit.jsx"
-					],
-					[
-						"validation.js",
-						"src\\tool\\utils\\validation.js"
-					],
-					[
-						"banner/list",
-						"src\\page\\payment\\banner\\List.jsx"
-					],
-					[
-						"tool/utils/validation",
-						"src\\tool\\utils\\validation.js"
-					],
-					[
-						"lyrics/font/edit",
-						"src\\page\\lyrics\\font\\Edit.jsx"
-					],
-					[
-						"field",
-						"src\\components\\Form\\Field.jsx"
-					],
-					[
-						"tool/disc",
-						"src\\tool\\dict.js"
-					],
-					[
-						"rules/edit",
-						"src\\page\\rules\\Edit.jsx"
-					],
-					[
-						"field.jsx",
-						"src\\components\\Form\\Field.jsx"
-					],
-					[
-						"getvalue",
-						"node_modules\\redux-form\\lib\\getValues.js"
-					],
-					[
-						"switch.jsx/",
-						"src\\components\\Form\\Switch.jsx\\index.js"
-					],
-					[
-						"singleareaedit",
-						"src\\page\\payment\\product\\components\\SingleAreaEdit.jsx"
-					],
-					[
-						"multiareaedit",
-						"src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
 					],
 					[
 						"payment/product/list",
 						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"",
-						"src\\page\\payment\\banner\\list.jsx"
+						"image/list",
+						"src\\page\\lyrics\\image\\List.jsx"
 					],
 					[
-						"lyrics/font",
-						"src\\page\\lyrics\\font\\List.jsx"
+						"rules/log",
+						"src\\page\\rules\\Log.jsx"
 					],
 					[
-						"lyric/font/list",
-						"src\\page\\lyrics\\font\\List.jsx"
+						"marketsj",
+						"src\\config\\markets.js"
 					],
 					[
-						"payment/product/edit",
-						"src\\page\\payment\\product\\Edit.jsx"
+						"rules/list",
+						"src\\page\\rules\\List.jsx"
+					],
+					[
+						"config/api/config",
+						"src\\config\\api\\config.js"
+					],
+					[
+						"/tool/auth",
+						"node_modules\\duz\\tool\\auth.js"
+					],
+					[
+						"ad/list",
+						"src\\page\\ad\\apps\\List.jsx"
+					],
+					[
+						"cardp",
+						"src\\components\\CardPlus.jsx"
+					],
+					[
+						"ad/apps/edi",
+						"src\\page\\ad\\apps\\Edit.jsx"
 					],
 					[
 						"index.jsx",
 						"src\\page\\drag\\index.jsx"
 					],
 					[
-						"payment/ei",
-						"src\\page\\payment\\product\\Edit.jsx"
+						"ad/apps/list",
+						"src\\page\\ad\\apps\\List.jsx"
 					],
 					[
-						"form/index.js",
-						"src\\components\\Form\\index.js"
+						"tool/auth",
+						"node_modules\\duz\\tool\\auth.js"
 					],
 					[
-						"lyrics/list.jsx",
-						"joox-op\\src\\page\\lyrics\\font\\List.jsx"
+						"config/markets",
+						"src\\config\\markets.js"
 					],
 					[
-						"nav.jsx",
-						"joox-op\\src\\page\\App.jsx\\Nav.jsx"
+						"config/api/config.js",
+						"src\\config\\api\\config.js"
+					],
+					[
+						"store/auth",
+						"node_modules\\duz\\tool\\store\\auth.js"
+					],
+					[
+						"__test__/",
+						"node_modules\\duz\\tool\\__test__\\auth.js"
+					],
+					[
+						"readonly",
+						"node_modules\\duz\\components\\Form\\readOnlyAuto.js"
+					],
+					[
+						"banner/edi",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"activity/",
+						"src\\page\\ugc\\activity\\Edit.jsx"
+					],
+					[
+						"activity/comme",
+						"src\\page\\ugc\\activity\\Comments.jsx"
+					],
+					[
+						"edit2",
+						"src\\page\\payment\\product\\Edit2.jsx"
 					],
 					[
 						"payment/edit",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"src\\page\\payment\\product\\Edit.jsx"
 					],
 					[
-						"multiarealist",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaList.jsx"
+						"tabform.sjx",
+						"node_modules\\duz\\components\\Form\\TabForm.jsx"
 					],
 					[
-						"payment/list",
-						"joox-op\\src\\page\\payment\\product\\List.jsx"
+						"activityt",
+						"src\\page\\ugc\\activity\\Edit.jsx"
 					],
 					[
-						"prod/list",
-						"joox-op\\src\\page\\payment\\product\\List.jsx"
+						"tabfomr",
+						"node_modules\\duz\\components\\Form\\TabForm.jsx"
 					],
 					[
-						"product/editjsx",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"style.css",
+						"src\\page\\App.jsx\\style.scss"
 					],
 					[
-						"paymn/edit",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"tabform.jsx",
+						"node_modules\\duz\\components\\Form\\TabForm.jsx"
+					],
+					[
+						"product/edit",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"apps/edit",
+						"src\\page\\ad\\apps\\Edit.jsx"
+					],
+					[
+						"banner/edit",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"payment/banner/list",
+						"src\\page\\payment\\banner\\List.jsx"
+					],
+					[
+						"duz/ui",
+						"node_modules\\duz\\example\\UI.jsx"
+					],
+					[
+						"routes/inde",
+						"src\\routes\\index.js"
+					],
+					[
+						"banner/list",
+						"src\\page\\payment\\banner\\List.jsx"
+					],
+					[
+						"apps/list",
+						"src\\page\\ad\\apps\\List.jsx"
+					],
+					[
+						"ad/bane",
+						"src\\page\\ad\\banner\\Edit.jsx"
+					],
+					[
+						"ad/banner/edit",
+						"src\\page\\ad\\banner\\Edit.jsx"
+					],
+					[
+						"iamge/list",
+						"src\\page\\lyrics\\image\\List.jsx"
 					],
 					[
 						"font/list",
-						"joox-op\\src\\page\\lyrics\\font\\List.jsx"
+						"src\\page\\lyrics\\font\\List.jsx"
 					],
 					[
-						"edit",
-						"joox-op\\src\\page\\rules\\Edit.jsx"
+						"ad/apps/edit",
+						"src\\page\\ad\\apps\\Edit.jsx"
 					],
 					[
-						"editjsx",
-						"joox-op\\src\\page\\rules\\Edit.jsx"
+						"apps/styl",
+						"src\\page\\App.jsx\\style.scss"
 					],
 					[
-						"payment/editx",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"filed/index",
+						"node_modules\\duz\\components\\Form\\Field\\index.js"
 					],
 					[
-						"payment/product",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"ad.js",
+						"src\\config\\api\\ad.js"
 					],
 					[
-						"page/home",
-						"joox-op\\src\\page\\Home.jsx"
+						"payment.js",
+						"src\\config\\api\\payment.js"
 					],
 					[
-						"home.jsx",
-						"joox-op\\src\\page\\Home.jsx"
+						"payment/banner/edit",
+						"src\\page\\payment\\banner\\Edit.jsx"
 					],
 					[
-						"mulitareaedit",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
+						"paymnet/banner/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"multiareapageedit",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
+						"routes/ind",
+						"src\\routes\\index.js"
 					],
 					[
-						"textjsx",
-						"joox-op\\src\\components\\Form\\Text.jsx"
+						"router/inde",
+						"node_modules\\express\\lib\\router\\index.js"
 					],
 					[
-						"checkbo",
-						"joox-op\\src\\components\\Form\\Checkbox.jsx"
+						"router.js",
+						"node_modules\\react-router\\es6\\Router.js"
+					],
+					[
+						"apps.style",
+						"src\\page\\App.jsx\\style.scss"
+					],
+					[
+						"duz/form/file",
+						"node_modules\\duz\\components\\Form\\File\\index.js"
+					],
+					[
+						"file.jsx",
+						"src\\components\\ImageList.jsx\\File.jsx"
+					],
+					[
+						"imagelist/inde",
+						"src\\components\\ImageList.jsx\\index.js"
+					],
+					[
+						"user.js",
+						"src\\config\\store\\user.js"
+					],
+					[
+						"cardpl",
+						"src\\components\\CardPlus.jsx"
+					],
+					[
+						"auth",
+						"node_modules\\acorn\\AUTHORS"
+					],
+					[
+						"validtaion",
+						"node_modules\\duz\\tool\\validation.js"
+					],
+					[
+						"feature.js",
+						"node_modules\\duz\\tool\\store\\feature.js"
+					],
+					[
+						"ugc/activity/list",
+						"src\\page\\ugc\\activity\\List.jsx"
+					],
+					[
+						"dict",
+						"src\\config\\dict.js"
+					],
+					[
+						"duz/tool/auth",
+						"node_modules\\duz\\tool\\auth.js"
+					],
+					[
+						"payment/product/edit",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"tod",
+						"TODO-derek.json"
+					],
+					[
+						"payment/product/edi",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"rule/list",
+						"src\\page\\rules\\List.jsx"
+					],
+					[
+						"paymentbaner",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"routes/index",
+						"src\\routes\\index.js"
+					],
+					[
+						"rules/edit",
+						"src\\page\\rules\\Edit.jsx"
+					],
+					[
+						"dic.",
+						"src\\config\\dict.js"
+					],
+					[
+						"edit2.jsx",
+						"src\\page\\payment\\product\\Edit2.jsx"
+					],
+					[
+						"dere",
+						"TODO-derek.json"
+					],
+					[
+						"pay/bann/edi",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"imagelist/ind",
+						"src\\components\\ImageList.jsx\\index.js"
+					],
+					[
+						"imagelist.jsx",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"imagelist/file",
+						"src\\components\\ImageList.jsx\\File.jsx"
+					],
+					[
+						"payment",
+						"src\\config\\api\\payment.js"
+					],
+					[
+						"lyrics/font/edit",
+						"src\\page\\lyrics\\font\\Edit.jsx"
+					],
+					[
+						"pay/banner/edit",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"edit.jsx",
+						"src\\page\\rules\\Edit.jsx"
+					],
+					[
+						"payment/edit.jsx",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"font/edit",
+						"src\\page\\lyrics\\font\\Edit.jsx"
+					],
+					[
+						"image/edit",
+						"src\\page\\lyrics\\image\\Edit.jsx"
+					],
+					[
+						"lyrics/image/list",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"lyric",
+						"src\\config\\api\\lyrics.js"
+					],
+					[
+						"activity/edi",
+						"src\\page\\ugc\\activity\\Edit.jsx"
+					],
+					[
+						"eidt.jsx",
+						"src\\page\\rules\\Edit.jsx"
+					],
+					[
+						"font/lis",
+						"src\\page\\lyrics\\font\\List.jsx"
+					],
+					[
+						"font/list.",
+						"src\\page\\lyrics\\font\\List.jsx"
+					],
+					[
+						"lyrics/iamge/list",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"lyrics.js",
+						"src\\config\\api\\lyrics.js"
+					],
+					[
+						"lyrics/imag/list",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"dict.js",
+						"src\\config\\dict.js"
+					],
+					[
+						"form/static.",
+						"node_modules\\duz\\components\\Form\\Static.jsx"
+					],
+					[
+						"multiareaedit",
+						"src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
+					],
+					[
+						"api/",
+						"src\\config\\api\\activity.js"
+					],
+					[
+						"singleareaedit",
+						"src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
 					],
 					[
 						"multiarepage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
-					],
-					[
-						"multiarea",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaList.jsx"
-					],
-					[
-						"multipage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
-					],
-					[
-						"multiareapage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
-					],
-					[
-						"reduxform",
-						"joox-op\\node_modules\\redux-form\\dist\\redux-form.js"
-					],
-					[
-						"form",
-						"joox-op\\src\\components\\Form\\Form.jsx"
-					],
-					[
-						"multiareapageed",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
+						"src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
 					],
 					[
 						"singlearea",
-						"joox-op\\src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
+						"src\\page\\payment\\product\\components\\SingleAreaEdit.jsx"
 					],
 					[
-						"multilist",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaList.jsx"
+						"multiarea",
+						"src\\page\\payment\\product\\components\\MultiAreaList.jsx"
 					],
 					[
-						"mulareapage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
+						"multiareae",
+						"src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
 					],
 					[
-						"multi",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
+						"pay/bann/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"static",
-						"joox-op\\src\\components\\Form\\Static.jsx"
+						"payment/prodcut/list",
+						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"switch",
-						"joox-op\\src\\components\\Form\\Switch.jsx"
+						"marketcar",
+						"src\\components\\MarketCard.jsx"
 					],
 					[
-						"datetime",
-						"joox-op\\src\\components\\Form\\Datetime.jsx"
+						"product/list",
+						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"switchjsx",
-						"joox-op\\src\\components\\Form\\Switch.jsx"
+						"marketcard",
+						"src\\components\\MarketCard.jsx"
 					],
 					[
-						"singleareapageedi",
-						"joox-op\\src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
+						"market.jsx",
+						"src\\components\\market.jsx"
 					],
 					[
-						"formjsx",
-						"joox-op\\src\\components\\Form\\Form.jsx"
+						"payment/bann/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"singlareaedit",
-						"joox-op\\src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
+						"marketc",
+						"src\\components\\MarketCard.jsx"
 					],
 					[
-						"static.jsx",
-						"joox-op\\src\\components\\Form\\Static.jsx"
+						"",
+						".gitmodules"
 					],
 					[
-						"static.j",
-						"Sputnik\\app\\node_modules\\cheerio\\lib\\static.js"
+						"text.jsx",
+						"node_modules\\duz\\components\\Form\\Text.jsx"
 					],
 					[
-						"redux-form",
-						"joox-op\\node_modules\\redux-form\\dist\\redux-form.js"
+						"payment/list",
+						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"reduxfrom",
-						"joox-op\\node_modules\\redux-form\\lib\\createReduxForm.js"
+						"paymnet/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"datetimefield",
-						"joox-op\\node_modules\\react-bootstrap-datetimepicker\\lib\\DateTimeField.js"
+						"pagedeco",
+						"node_modules\\duz\\components\\Page\\pageDecorator.js"
 					],
 					[
-						"datetime.",
-						"joox-op\\src\\components\\Form\\Datetime.jsx"
+						"pagedecorator",
+						"node_modules\\duz\\components\\Page\\pageDecorator.js"
 					],
 					[
-						"tips",
-						"joox-op\\src\\components\\Form\\Tips.jsx"
+						"app.jsx/style",
+						"src\\page\\App.jsx\\style.scss"
 					],
 					[
-						"multiedit",
-						"joox-op\\src\\components\\Form\\MultiAreaEdit.jsx"
-					],
-					[
-						"index.js",
-						"wdw\\routes\\index.js"
-					],
-					[
-						"mutiarea",
-						"joox-op\\src\\components\\Form\\MultiAreaEdit.jsx"
-					],
-					[
-						"form.scss",
-						"joox-op\\node_modules\\bootstrap\\scss\\mixins\\_forms.scss"
-					],
-					[
-						"forms.scss",
-						"joox-op\\node_modules\\bootstrap\\scss\\_forms.scss"
-					],
-					[
-						"bootstra",
-						"joox-op\\node_modules\\bootstrap\\scss\\bootstrap.scss"
-					],
-					[
-						"vipcss",
-						"project\\express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"vip.ejs",
-						"project\\express\\src\\template\\vipService.ejs"
-					],
-					[
-						"report.js",
-						"project\\template\\app\\js\\report.js"
-					],
-					[
-						"report",
-						"project\\template\\app\\js\\report.js"
-					],
-					[
-						"fav.ejs",
-						"project\\express\\src\\template\\partials\\fav.ejs"
-					],
-					[
-						"header.es",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"fav.js",
-						"project\\express\\src\\template\\script\\fav.js"
-					],
-					[
-						"headerejs",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"basic.css",
-						"project\\express\\src\\template\\style\\basic.css"
-					],
-					[
-						"header",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"app.js",
-						"project\\express\\app.js"
-					],
-					[
-						"header.ejs",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"vipservice.ejs",
-						"project\\express\\src\\template\\vipService.ejs"
-					],
-					[
-						"page.js",
-						"project\\express\\src\\template\\script\\page.js"
-					],
-					[
-						"fav.je",
-						"project\\express\\src\\template\\partials\\fav.ejs"
-					],
-					[
-						"get_webpack_config",
-						"joox-op\\get_webpack_config.js"
-					],
-					[
-						"home.",
-						"joox-op\\src\\page\\Home.jsx"
-					],
-					[
-						"artist.ejs",
-						"project\\express\\src\\template\\artist.ejs"
-					],
-					[
-						"select",
-						"project\\express\\src\\template\\selected.ejs"
-					],
-					[
-						"route",
-						"wdw\\node_modules\\express\\lib\\router\\route.js"
-					],
-					[
-						"mymusic.js",
-						"project\\express\\routes\\myMusic.js"
-					],
-					[
-						"wdf",
-						"wdw\\wdf.py"
-					],
-					[
-						"joox.js",
-						"project\\express\\routes\\joox.js"
-					],
-					[
-						"n",
-						"Sputnik\\npm-debug.log"
-					],
-					[
-						"playlist.css",
-						"project\\template\\oa\\wallet\\css\\playlist.css"
-					],
-					[
-						"playranking.",
-						"project\\template\\oa\\wallet\\playranking.php"
-					],
-					[
-						"playranking.php",
-						"template\\oa\\wallet\\playranking.php"
-					],
-					[
-						"mymusic.ejs",
-						"express\\src\\template\\myMusic.ejs"
-					],
-					[
-						"mymusi",
-						"express\\routes\\myMusic.js"
-					],
-					[
-						"mymusic.css",
-						"express\\src\\template\\style\\myMusic.css"
-					],
-					[
-						"page.css",
-						"express\\src\\template\\style\\page.css"
-					],
-					[
-						"lang.css",
-						"express\\src\\template\\style\\lang.css"
-					],
-					[
-						"mymuscicss",
-						"express\\src\\template\\style\\myMusic.css"
-					],
-					[
-						"mymucss",
-						"express\\src\\template\\style\\myMusic.css"
-					],
-					[
-						"vipservicecss",
-						"express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"vipse",
-						"express\\src\\template\\vipService.ejs"
-					],
-					[
-						"vipservice",
-						"express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"hom",
-						"express\\src\\template\\home.ejs"
-					],
-					[
-						"jooxpla",
-						"express\\src\\template\\script\\jooxPlayer.js"
-					],
-					[
-						"vipservice.css",
-						"express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"vipser",
-						"express\\src\\template\\vipService.ejs"
-					],
-					[
-						"mymuej",
-						"express\\src\\template\\myMusic.ejs"
-					],
-					[
-						"mymusic",
-						"express\\routes\\myMusic.js"
-					],
-					[
-						"vipserviceejs",
-						"express\\src\\template\\vipService.ejs"
-					],
-					[
-						"mymusicejs",
-						"express\\src\\template\\myMusic.ejs"
-					],
-					[
-						"mymus",
-						"express\\routes\\myMusic.js"
-					],
-					[
-						"vipserej",
-						"express\\src\\template\\vipService.ejs"
+						"sytle.css",
+						"node_modules\\serve-index\\public\\style.css"
 					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
@@ -1399,16 +1685,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 242.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1666.0
+		"new_window_width": 1664.0
 	},
 	"windows":
 	[
@@ -1417,6 +1703,318 @@
 			{
 				"selected_items":
 				[
+					[
+						"auth",
+						"auth_getGroups"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"acti",
+						"activity_id"
+					],
+					[
+						"activid",
+						"activity_id"
+					],
+					[
+						"hande",
+						"handleNewActive"
+					],
+					[
+						"handle",
+						"handleSubmit"
+					],
+					[
+						"vali",
+						"validation"
+					],
+					[
+						"valid",
+						"validate"
+					],
+					[
+						"lyric",
+						"lyric_images"
+					],
+					[
+						"ulr",
+						"sortUrl"
+					],
+					[
+						"url",
+						"sortUrl"
+					],
+					[
+						"Mark",
+						"MarketChange"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"market",
+						"marketSelector"
+					],
+					[
+						"mark",
+						"marketList"
+					],
+					[
+						"product",
+						"product_id"
+					],
+					[
+						"showN",
+						"showNewActiveDom"
+					],
+					[
+						"handleSubmit",
+						"handleSubmitActive"
+					],
+					[
+						"id",
+						"activity_id"
+					],
+					[
+						"defau",
+						"defaultBtns"
+					],
+					[
+						"isR",
+						"isRefetch"
+					],
+					[
+						"activ",
+						"activtiy"
+					],
+					[
+						"active",
+						"renderActive"
+					],
+					[
+						"prodcut",
+						"product_name"
+					],
+					[
+						"zh_",
+						"zh_TW"
+					],
+					[
+						"prou",
+						"product_name"
+					],
+					[
+						"bool",
+						"boolean"
+					],
+					[
+						"props",
+						"PropTypes"
+					],
+					[
+						"upd",
+						"updateFields"
+					],
+					[
+						"te",
+						"tempTest"
+					],
+					[
+						"plat",
+						"platformId"
+					],
+					[
+						"inter",
+						"interact_func"
+					],
+					[
+						"update",
+						"updateData"
+					],
+					[
+						"banner_",
+						"banner_list"
+					],
+					[
+						"lange",
+						"language2"
+					],
+					[
+						"promise",
+						"Promise"
+					],
+					[
+						"async",
+						"asyncValid"
+					],
+					[
+						"UPDA",
+						"updateData"
+					],
+					[
+						"inse",
+						"insetDData"
+					],
+					[
+						"Ul",
+						"upload_image"
+					],
+					[
+						"string",
+						"string	React.PropTypes.string"
+					],
+					[
+						"number",
+						"Number"
+					],
+					[
+						"image",
+						"imageType"
+					],
+					[
+						"clasN",
+						"classNames"
+					],
+					[
+						"media",
+						"media-object"
+					],
+					[
+						"float",
+						"float-layer"
+					],
+					[
+						"classN",
+						"className"
+					],
+					[
+						"item",
+						"itemState"
+					],
+					[
+						"app",
+						"apps_list"
+					],
+					[
+						"app_li",
+						"apps_list"
+					],
+					[
+						"ti",
+						"title"
+					],
+					[
+						"new",
+						"newdata"
+					],
+					[
+						"page",
+						"page_setting"
+					],
+					[
+						"banner",
+						"bannerList"
+					],
+					[
+						"img",
+						"img_url"
+					],
+					[
+						"retur",
+						"returnList"
+					],
+					[
+						"reques",
+						"requestFunc"
+					],
+					[
+						"apps",
+						"apps_list"
+					],
+					[
+						"fields",
+						"fieldStatus"
+					],
+					[
+						"languag",
+						"language2"
+					],
+					[
+						"Dict",
+						"DICT"
+					],
+					[
+						"valida",
+						"validation"
+					],
+					[
+						"puib",
+						"publishView"
+					],
+					[
+						"glo",
+						"globalValidate"
+					],
+					[
+						"gloaba",
+						"globalStatus"
+					],
+					[
+						"defaut",
+						"defaultValue"
+					],
+					[
+						"defaul",
+						"defaultValue"
+					],
+					[
+						"valita",
+						"validation"
+					],
+					[
+						"propTy",
+						"PropTypes"
+					],
+					[
+						"func",
+						"validateFunc"
+					],
+					[
+						"platfo",
+						"platform"
+					],
+					[
+						"platform",
+						"platform"
+					],
+					[
+						"fun",
+						"function	React.PropTypes.func"
+					],
+					[
+						"的",
+						"的验证"
+					],
+					[
+						"a",
+						"aaa"
+					],
+					[
+						"protype",
+						"PropTypes"
+					],
+					[
+						"grou",
+						"groupBy"
+					],
+					[
+						"test",
+						"testing"
+					],
 					[
 						"crea",
 						"createFields"
@@ -1432,14 +2030,6 @@
 					[
 						"Form",
 						"Form"
-					],
-					[
-						"handle",
-						"handleMarketChange"
-					],
-					[
-						"fields",
-						"fields"
 					],
 					[
 						"forma",
@@ -1502,16 +2092,8 @@
 						"if_active"
 					],
 					[
-						"activ",
-						"activity_id"
-					],
-					[
 						"prom",
 						"promotions"
-					],
-					[
-						"acti",
-						"activities"
 					],
 					[
 						"tem",
@@ -1522,16 +2104,8 @@
 						"product_name"
 					],
 					[
-						"test",
-						"Testtext"
-					],
-					[
 						"activity",
 						"activity_id"
-					],
-					[
-						"product",
-						"product_id"
 					],
 					[
 						"defalu",
@@ -1622,16 +2196,8 @@
 						"activities"
 					],
 					[
-						"new",
-						"newActiveFields"
-					],
-					[
 						"activit",
 						"activity_id"
-					],
-					[
-						"active",
-						"activeStatus"
 					],
 					[
 						"titl",
@@ -1648,113 +2214,49 @@
 					[
 						"fiels",
 						"fields"
-					],
-					[
-						"avit",
-						"activity_valid"
-					],
-					[
-						"zh",
-						"zh_tw"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"time",
-						"timestamp"
-					],
-					[
-						"err",
-						"error	.error()"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"z",
-						"z-index"
-					],
-					[
-						"favlist",
-						"favlist"
-					],
-					[
-						"ajax",
-						"ajaxCD"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"borderb",
-						"border-bottom"
-					],
-					[
-						"bordre",
-						"border-width"
-					],
-					[
-						"borco",
-						"border-color"
-					],
-					[
-						"bor",
-						"border-style"
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"paddingt",
-						"padding-left"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"stati",
-						"staticPage"
-					],
-					[
-						"vip",
-						"VIP服务"
-					],
-					[
-						"vipser",
-						"vipServer"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/joox-op/src/page/ad/apps/Edit.jsx",
+					"contents": "duz\nop\n	(oooo)   重写payment\n			I   增加onoff的开关\n			II  新增后应该关闭原有的新增状态\n			III 修改删除时出现的显示bug()\n			IV  测试一下'钱'的问题\n	(oo)   修改tabForm中的内容\n			I.   tabForm的tabs也需要自动生成\n			II.  tabForm的validation需要重写\n			III. tabForm的验证功能=>asyn验证\n\n	(!)    给他们测试拉取banner的速度\n\n	(todo) readonly功能引入其他页面\n\npayment\n	(todo)修改payment的activity。将form.js的 isfooter=true 去掉\n\n\n其他",
+					"file": "/D/joox-op/TODO-derek.json",
+					"file_size": 536,
+					"file_write_time": 131049184814860650,
 					"settings":
 					{
-						"buffer_size": 11477,
-						"line_ending": "Unix"
+						"buffer_size": 336,
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"file": "/D/joox-op/src/page/ad/banner/List.jsx",
 					"settings":
 					{
-						"buffer_size": 695,
-						"line_ending": "Unix"
+						"buffer_size": 9740,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n	\"statusbar_modified_time\": false,\n	\"statusbar_modified_time_format\": \"%A %b %d %H:%M:%S %Y\",\n	\"statusbar_modified_time_locale\": \"\",\n\n	\"statusbar_file_size\": false,\n\n	\"close_affected_buffers_when_deleting_even_if_dirty\": false,\n\n	\"hide_open_with_entries_when_there_are_no_applicable\": false,\n\n	\"confirm_before_deleting\": true,\n\n	\"confirm_before_permanently_deleting\": true,\n\n	\"new_files_relative_to_project_root\": false,\n	\"new_folders_relative_to_project_root\": false,\n\n	\"disabled_menuitem_edit\": false,\n	\"disabled_menuitem_edit_to_right\": false,\n	\"disabled_menuitem_open_run\": false,\n	\"disabled_menuitem_open_in_browser\": false,\n	\"disabled_menuitem_open_in_new_window\": false,\n	\"disabled_menuitem_find_in_project\": false,\n	\"disabled_menuitem_copy_name\": false,\n	\"disabled_menuitem_copy_path\": false,\n	\"disabled_menuitem_copy_path_windows\": true,\n	\"disabled_menuitem_copy_dir_path\": true,\n	\"disabled_menuitem_paste_in_parent\": false,\n	\"disabled_menuitem_empty\": true,\n\n	//if installed in a default location maybe this works.\n	\"default_browser\": \"\", //one of this list: firefox, chrome, canary, chromium, opera, safari, ie\n	\"open_all_browsers\": [\"firefox\", \"chrome\", \"opera\", \"safari\", \"ie\", \"edge\"], //any of this list: firefox, chrome, canary, chromium, opera, safari, ie, edge\n\n	\"portable_browser\": \"\", // for example:  C:/Program Files (x86)/Nightly/firefox.exe\n\n	\"disable_send_to_trash\": false,\n\n	\"use_powershell\": true,\n\n	\"auto_close_empty_groups\": false\n\n}",
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 1464,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -1765,17 +2267,101 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 375.0,
-				"last_filter": "preferen",
+				"height": 354.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
 					[
 						"preferen",
 						"Preferences: Settings - User"
 					],
 					[
-						"install",
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"prefeten",
+						"Preferences: Settings - User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"prefe",
+						"Preferences: Settings - User"
+					],
+					[
+						"referec",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"preference",
+						"Preferences: Settings - Default"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"js",
+						"Set Syntax: JSX"
+					],
+					[
+						"isntall",
 						"Package Control: Install Package"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"jsoxn",
+						"Pretty JSON: JSON 2 XML"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
 					],
 					[
 						"sshtml",
@@ -1784,14 +2370,6 @@
 					[
 						"html",
 						"HTMLPrettify"
-					],
-					[
-						"json",
-						"Set Syntax: JSON"
-					],
-					[
-						"jsx",
-						"Set Syntax: JSX"
 					],
 					[
 						"ssjsx",
@@ -1822,19 +2400,11 @@
 						"Snippet: React: isMounted()"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"removei",
 						"Package Control: Remove Repository"
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					],
 					[
@@ -1890,10 +2460,6 @@
 						"Emmet: Toggle Comment"
 					],
 					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
 						"disa",
 						"Package Control: Disable Package"
 					],
@@ -1918,10 +2484,6 @@
 						"Snippet: Lorem ipsum"
 					],
 					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
 						"",
 						":$ - EOF"
 					],
@@ -1938,7 +2500,7 @@
 						"Set Syntax: HTML"
 					]
 				],
-				"width": 450.0
+				"width": 462.0
 			},
 			"console":
 			{
@@ -1958,148 +2520,174 @@
 			},
 			"expanded_folders":
 			[
-				"/D/joox-op"
+				"/D/joox-op",
+				"/D/joox-op/node_modules",
+				"/D/joox-op/node_modules/domutils",
+				"/D/joox-op/node_modules/duz",
+				"/D/joox-op/node_modules/duz/example",
+				"/D/joox-op/node_modules/duz/tool",
+				"/D/joox-op/node_modules/duz/tool/store",
+				"/D/joox-op/src",
+				"/D/joox-op/src/page",
+				"/D/joox-op/src/page/ad",
+				"/D/joox-op/src/page/ad/banner",
+				"/D/joox-op/src/page/lyrics",
+				"/D/joox-op/src/page/lyrics/font"
 			],
 			"file_history":
 			[
-				"/D/joox-op/node_modules/duz/components/Form/Form.jsx",
-				"/D/duz/components/Form/Form.jsx",
-				"/D/joox-op/src/components/Form/Form.jsx",
-				"/D/duz/components/Form/Text.jsx",
-				"/D/duz/components/Form/index.js",
-				"/D/joox-op/src/components/Form/index.js",
-				"/D/joox-op/src/components/Form/Text.jsx",
-				"/D/joox-op/src/components/Form/validation.js",
-				"/D/duz/components/Form/validation.js",
-				"/D/duz/components/Form/Tips.jsx",
-				"/D/duz/components/Form/TextBK.jsx",
-				"/D/joox-op/src/components/Form/TagInput.jsx",
-				"/D/joox-op/src/components/Form/Static.jsx",
-				"/D/duz/components/Form/Static.jsx",
-				"/D/joox-op/src/components/Form/File.jsx",
-				"/D/duz/components/Form/File.jsx",
-				"/D/duz/components/Form/Field.jsx",
-				"/D/joox-op/src/components/Form/Field.jsx",
-				"/D/duz/components/Form/Datetime.jsx",
-				"/D/joox-op/src/components/Form/Datetime.jsx",
-				"/D/joox-op/src/components/Form/Checkbox.jsx",
-				"/D/duz/components/Form/Checkbox.jsx",
-				"/D/joox-op/src/tool/dict.js",
-				"/D/joox-op/src/page/payment/product/List.jsx",
-				"/D/duz/README.md",
-				"/D/duz/tool/utils.js",
-				"/D/joox-op/src/tool/utils/validation.js",
-				"/D/duz/tool/validation.js",
-				"/D/joox-op/src/page/payment/banner/List.jsx",
-				"/D/joox-op/src/components/UI/Tab.jsx",
-				"/D/joox-op/src/page/lyrics/image/List.jsx",
-				"/D/joox-op/_local2/local2debug.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 				"/D/joox-op/src/page/lyrics/font/List.jsx",
-				"/D/joox-op/src/components/Form/Select.jsx",
-				"/D/joox-op/src/components/UI/Breadcrumb.jsx",
-				"/D/joox-op/src/page/payment/banner/Edit.jsx",
-				"/D/joox-op/src/components/UI/Label.jsx",
-				"/D/joox-op/src/routes/index.js",
-				"/D/joox-op/src/page/lyrics/font/Edit.jsx",
-				"/C/Users/Administrator/Desktop/ugc.txt",
-				"/D/joox-op/src/page/payment/product/Edit.jsx",
-				"/D/joox-op/src/page/rules/List.jsx",
-				"/D/Wechat Payment/banner_输出api.txt",
-				"/D/Wechat Payment/banner_api.txt",
-				"/D/协议软件使用过程遇到的问题.txt",
-				"/F/joox-cms-doc-helper/index.js",
-				"/D/Wechat Payment/商品列表配置首页api.txt",
-				"/D/运营平台/joox.new.api.rule.txt",
-				"/D/运营平台/wechat_payment商品列表配置.txt",
-				"/D/运营平台/歌词海报.txt",
-				"/D/remote.txt",
-				"/D/joox-op/gitbook/3.2.components.md",
-				"/D/joox-op/src/components/Form/Tips.jsx",
-				"/D/joox-op/src/demo.js",
-				"/D/joox-op/src/index.js",
-				"/C/Users/Administrator/Desktop/test.html",
-				"/D/joox-op/node_modules/redux-form/lib/getValues.js",
-				"/D/运营平台/登录&用户信息.TXT",
-				"/C/Users/Administrator/Desktop/some.html",
-				"/D/joox-op/src/page/rules/Edit.jsx",
-				"/D/joox-op/src/components/Form/DateRange.jsx",
-				"/D/joox-op/src/components/Form/Switch.jsx/index.js",
-				"/D/joox-op/src/page/payment/product/components/MultiAreaEdit.jsx",
-				"/D/joox-op/src/components/Form/Switch.jsx/my-checkbox.css",
-				"/D/joox-op/src/page/payment/product/components/SingleAreaEdit.jsx",
-				"/D/joox-op/src/page/payment/banner/list.jsx",
-				"/D/joox-op/src/page/payment/banner/edit.jsx",
-				"/D/joox-op/src/page/drag/index.jsx",
-				"/D/joox-op/gitbook/3.1.page.md",
-				"/D/joox-op/gitbook/SUMMARY.md",
-				"/D/joox-op/gitbook/3.3.tool.md",
-				"/D/joox-op/gitbook/glossary.md",
-				"/D/joox-op/gitbook/README.md",
-				"/D/joox-op/src/components/Form/Switch2.jsx",
-				"/D/joox-op/src/components/Form/my-checkbox.css",
-				"/D/joox-op/node_modules/react-bootstrap-switch/react-bootstrap-switch/test/bootstrap-switch.js",
-				"/D/joox-op/src/components/Form/Switch.jsx",
-				"/D/joox-op/src/page/App.jsx/Nav.jsx",
-				"/D/joox-op/src/page/App.jsx/Login.jsx",
-				"/D/joox-op/src/page/App.jsx/RouteTransition.jsx",
-				"/D/joox-op/src/page/App.jsx/index.js",
-				"/D/joox-op/src/page/App.jsx/Init.jsx",
-				"/D/joox-op/src/page/App.jsx/Toolbar.jsx",
-				"/C/Users/Administrator/Desktop/回归后数据.txt",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/joox-op/src/page/payment/product/components/MultiAreaList.jsx",
-				"/D/joox-op/src/components/TablePlus.jsx/index.js",
-				"/F/ssh_joox_pp.js",
-				"/D/joox-op/src/index.html",
-				"/F/ssh_joox_portal_pp.js",
-				"/D/joox-op/.bowerrc",
+				"/D/joox-op/node_modules/duz/example/UI.jsx",
+				"/D/joox-op/node_modules/duz/tool/store/config.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/D/joox-op/node_modules/duz/tool/store/form.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/joox-op/node_modules/duz/components/Form/Form.jsx",
+				"/D/joox-op/src/config/api/config.js",
+				"/D/joox-op/src/page/ugc/activity/List.jsx",
+				"/D/joox-op/src/components/CardPlus.jsx",
+				"/D/joox-op/node_modules/duz/components/Page/pageDecorator.js",
+				"/D/joox-op/node_modules/duz/scss/joox/_joox-loader.scss",
+				"/D/joox-op/src/page/NO_AUTH.jsx",
+				"/D/joox-op/node_modules/duz/components/UI/Fail.jsx",
+				"/D/joox-op/src/page/no_auth.jsx",
+				"/D/joox-op/src/page/404.jsx",
+				"/D/joox-op/src/page/ad/banner/List.jsx",
+				"/D/joox-op/src/page/lyrics/image/List.jsx",
+				"/D/joox-op/src/page/payment/product/List.jsx",
+				"/D/joox-op/src/page/payment/banner/List.jsx",
 				"/D/joox-op/src/page/rules/Log.jsx",
-				"/D/joox-op/src/page/rules/TabNav.jsx",
-				"/F/.bashrc",
-				"/F/商品列表配置首页api.txt",
-				"/F/商品列表配置首页_输出api.txt",
-				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/wxpay_product.json",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.289/gonup/.bashrc",
-				"/D/joox-op/local2debug.sh",
-				"/C/Users/Administrator/Desktop/wechat_paymente.txt",
-				"/C/Users/Administrator/Desktop/wechat_payment%e5%95%86%e5%93%81%e5%88%97%e8%a1%a8%e9%85%8d%e7%bd%ae.txt",
-				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/.bashrc",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.669/README.md",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.031/gonup/py/go.py",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.993/gonup/py/config.py",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.104/.bashrc",
-				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.110/README.md",
-				"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.701/install.gonupv2.joox.sh",
-				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/install.gonupv2.joox.sh",
-				"/D/joox-op/package.json",
-				"/D/joox-op/get_webpack_config.js",
-				"/D/joox-op/node_modules/react-bootstrap-switch/dist/js/react-bootstrap-switch.js",
-				"/D/joox-op/node_modules/react-bootstrap-switch/package.json",
-				"/D/joox-op/src/page/Home.jsx",
-				"/D/joox-op/src/page/payment/product/components/MultiAreaPageEdit.jsx",
+				"/D/joox-op/src/page/rules/List.jsx",
+				"/D/joox-op/src/config/markets.js",
+				"/D/joox-op/src/page/ad/apps/List.jsx",
+				"/D/joox-op/node_modules/duz/tool/auth.js",
+				"/D/joox-op/node_modules/duz/tool/__test__/auth.js",
+				"/D/joox-op/src/page/ad/apps/Edit.jsx",
+				"/D/joox-op/TODO-derek.json",
+				"/D/joox-op/src/page/drag/index.jsx",
+				"/D/joox-op/node_modules/duz/tool/store/auth.js",
+				"/D/joox-op/node_modules/duz/tool/store/index.js",
+				"/D/joox-op/src/page/payment/product/Edit2.jsx",
+				"/D/joox-op/node_modules/duz/components/Form/readOnlyAuto.js",
+				"/D/joox-op/src/page/payment/banner/Edit.jsx",
+				"/D/joox-op/src/page/ugc/activity/Comments.jsx",
+				"/D/joox-op/src/page/ugc/activity/Edit.jsx",
+				"/D/joox-op/src/page/payment/product/Edit.jsx",
+				"/D/joox-op/node_modules/duz/components/Form/TabForm.jsx",
+				"/D/joox-op/src/page/App.jsx/style.scss",
+				"/D/joox-op/src/routes/index.js",
+				"/D/joox-op/node_modules/duz/components/Form/Field/index.js",
+				"/D/joox-op/src/page/ad/banner/Edit.jsx",
+				"/D/joox-op/src/config/api/ad.js",
+				"/D/joox-op/src/config/api/payment.js",
+				"/D/joox-op/node_modules/express/lib/router/index.js",
+				"/D/joox-op/node_modules/react-router/es6/Router.js",
+				"/D/joox-op/node_modules/duz/components/Form/File/index.js",
+				"/D/joox-op/src/components/ImageList.jsx/index.js",
+				"/D/joox-op/src/components/ImageList.jsx/File.jsx",
+				"/D/运营平台/incentive_ad.txt",
+				"/D/运营平台/角色权限控制.TXT",
+				"/D/joox-op/node_modules/duz/tool/store/feature.js",
+				"/D/joox-op/src/config/store/user.js",
+				"/D/joox-op/node_modules/acorn/AUTHORS",
+				"/D/joox-op/node_modules/duz/tool/validation.js",
+				"/D/joox-op/src/config/dict.js",
+				"/D/运营平台/歌曲权限配置.TXT",
+				"/D/joox-op/src/config/api/rules.js",
+				"/D/joox-op/src/page/rules/Edit.jsx",
+				"/D/joox-op/src/config/api/index.js",
+				"/D/运营平台/wechat_payment商品列表配置.txt",
+				"/D/joox-op/src/page/lyrics/font/Edit.jsx",
+				"/D/joox-op/src/config/api/lyrics.js",
+				"/D/joox-op/src/page/lyrics/image/Edit.jsx",
+				"/D/运营平台/歌词海报.txt",
+				"/D/joox-op/src/config/api/activity.js",
+				"/D/joox-op/node_modules/duz/components/Form/Static.jsx",
+				"/D/joox-op/node_modules/duz/scss/_custom.scss",
+				"/D/joox-op/src/page/payment/product/components/MultiAreaEdit.jsx",
 				"/D/joox-op/src/page/payment/product/components/SingleAreaPageEdit.jsx",
-				"/D/joox-op/node_modules/redux-form/dist/redux-form.js",
-				"/D/joox-op/src/tool/api/config.js",
-				"/D/joox-op/src/tool/api/queue.js",
-				"/D/joox-op/src/tool/api/index.js",
-				"/D/joox-op-2/src/page/payment/product/components/MultiAreaPageEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/MultiAreaEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/SingleAreaEdit.jsx",
-				"/D/joox-op-2/src/components/Form/Static.jsx",
-				"/D/joox-op-2/src/components/Form/Text.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/Testtext.jsx",
-				"/D/joox-op-2/src/page/payment/product/components/SingleAreaPageEdit.jsx",
-				"/D/joox-op-2/src/page/payment/product/Edit.jsx"
+				"/D/joox-op/src/page/payment/product/components/MultiAreaPageEdit.jsx",
+				"/D/joox-op/src/page/payment/product/components/SingleAreaEdit.jsx",
+				"/D/joox-op/src/page/payment/product/components/MultiAreaList.jsx",
+				"/D/运营平台/banner_protocol.txt",
+				"/D/运营平台/ugc&activity.txt",
+				"/C/Users/Administrator/Desktop/接口变更（权限）.txt",
+				"/D/joox-op/src/components/MarketCard.jsx",
+				"/D/joox-op/src/components/market.jsx",
+				"/D/joox-op/src/page/Home.jsx",
+				"/D/joox-op/.gitmodules",
+				"/D/joox-op/node_modules/duz/components/Form/Switch.jsx/index.js",
+				"/D/joox-op/node_modules/duz/components/Form/Text.jsx",
+				"/D/joox-op/node_modules/serve-index/public/style.css",
+				"/D/joox-op/node_modules/duz/components/UI/Card.jsx",
+				"/D/joox-op/node_modules/caniuse-db/features-json/offline-apps.json",
+				"/D/joox-op/node_modules/duz/components/Page/index.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/joox-op/_local2/local2debug.js",
+				"/D/joox-op/node_modules/duz/tool/utils.js",
+				"/D/joox-op/node_modules/duz/package.json",
+				"/D/joox-op/package.json",
+				"/D/joox-op/node_modules/ziey-i18n-loader/package.json",
+				"/D/joox-op/_local2/local2build.js",
+				"/D/joox-op/node_modules/duz/components/Form/createValidator.js",
+				"/C/Users/Administrator/Documents/RTXC File List/Accounts/derekwu/RTXDownload/tmp_cp_duz.sh",
+				"/D/joox-op/src/components/ImageList.jsx/ImageList.css",
+				"/C/Users/Administrator/Desktop/object-reduct-testcase.txt",
+				"/D/joox-op/node_modules/duz/node_modules/react-redux/package.json",
+				"/D/joox-op/node_modules/duz/node_modules/react-redux/README.md",
+				"/D/joox-op/node_modules/react-redux/README.md",
+				"/D/joox-op/node_modules/react-redux/package.json",
+				"/D/joox-op/node_modules/font-awesome/package.json",
+				"/D/joox-op/src/config/activity.js",
+				"/D/joox-op/local2debug.sh",
+				"/C/Users/Administrator/Desktop/更新.txt",
+				"/C/Users/Administrator/Desktop/TODO-derek.json",
+				"/D/joox-op/_local2/local.config.js",
+				"/D/joox-op/src/components/ImageUpload.jsx",
+				"/D/joox-op/node_modules/webpack-dev-server/client/style.css",
+				"/C/Users/Administrator/Desktop/转正申请.txt",
+				"/D/joox-op/node_modules/duz/components/Form/Datetime.jsx",
+				"/D/joox-op/src/components/DurationSearch.jsx",
+				"/D/joox-op/src/config/utils/validation.js",
+				"/D/joox-op/node_modules/webpack-stream/node_modules/vinyl-sourcemaps-apply/node_modules/source-map/lib/mapping-list.js",
+				"/D/joox-op/node_modules/duz/components/Form/Checkbox.jsx",
+				"/D/joox-op/node_modules/duz/tool/store/action.adjust.js",
+				"/D/joox-op/src/page/App.jsx/Popup.jsx/index.js",
+				"/C/Users/Administrator/Desktop/Edit.jsx",
+				"/D/joox-op/node_modules/react-bootstrap/node_modules/dom-helpers/ownerDocument.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Vintageous.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Vim Blackboard.sublime-package"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 52.0
 			},
 			"find_in_files":
 			{
 				"height": 122.0,
 				"where_history":
 				[
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\node_modules\\duz",
+					"D:\\joox-op\\src",
+					"D:\\joox-op",
+					"D:\\joox-op\\src",
+					"D:\\joox-op\\src\\page",
+					"D:\\joox-op\\page\\",
+					"D:\\joox-op\\page",
+					"D:\\joox-op\\node_modules\\duz",
 					"D:\\joox-op",
 					"D:\\joox-op\\src",
 					"D:\\joox-op",
@@ -2123,141 +2711,143 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"textarea",
-					"onChange",
-					"else",
-					"handleChange",
-					"onBlur",
-					"id",
-					"mapStateToProps",
-					"formFooter",
-					"Image",
-					"DICT",
-					"ACTION",
-					"store",
+					"handleToastr",
+					"isFooter",
+					"isfooter",
+					"fail",
+					"Fail",
+					"reload",
+					"auth",
+					"no_auth",
+					"LYRICS",
+					"AD",
+					"ad",
+					"200",
+					"   \n",
+					"Fail.jsx",
+					"960",
+					"已结束",
+					"checkbox",
+					"未开始",
+					"dictToOptions",
+					"switch",
+					"s",
+					"switch",
+					"活动开关",
+					".has-success",
+					"多语言信息",
+					"商品名",
+					"应用名称",
+					"config/utils",
+					"duz/tool/utils.js",
+					"import",
+					"config/utils",
+					"sortable",
+					"Links",
 					"Link",
-					"react-router",
-					"fetchData",
-					"handleMarketChange",
-					"hk",
-					"switch",
-					"nav",
-					"tab-contents",
-					"tabClick",
-					"tab-contents",
-					"handleMarket",
-					"getHeadBtns",
-					"select",
-					"contents",
-					"breadcrumbList",
-					"商品信息",
-					"breadcru",
+					"Lin",
+					"Link",
+					"DICT",
+					"Card",
+					"                    \n",
+					"connectDragSource",
+					"sort",
+					"setDrag",
+					"@SetDragDropContext()",
+					"matches",
+					".has-success",
+					".has-success .control-label,",
+					".has-success",
+					".has-success .control-label",
+					".has-success .control-label,",
+					"head-select",
+					"head-word",
+					"nav-item.head-word",
+					"header-area",
+					"nav-item.head-word",
+					"nav-item.head-select",
+					"header-area",
+					"card-block",
+					"padding: 1.25rem;",
+					"background-color: #fff !important;",
+					"    background-color: #fff !important;",
+					"card-block",
+					"Card",
+					"编辑",
+					"formatDate",
+					"imgDe",
+					"Card",
+					"card-block",
+					"Card",
+					"card-block",
+					"inline-block",
+					"ad-apps-Edit-image",
+					"nav-tabs",
+					"page-wrapper",
+					"main-page",
+					"status",
 					"label",
-					"dd",
-					"label",
-					"form",
-					"reduxForm",
-					"form",
-					"forms",
-					"form",
-					"发布",
-					"{# 发布国家 #}",
-					"shi",
-					"Field",
-					"field",
-					"Field",
-					"handleSu",
-					"handlesubmit",
-					"提交",
-					"handleSub",
-					"首页",
-					"fakedata",
-					"				\n",
-					"marketOptions",
-					"updateF",
-					"update",
-					"console.",
-					"handleMark",
-					"handlemark",
-					"handlesubmit",
-					"handle",
-					"handlemark",
-					"handle",
-					"handleMarketChange",
-					"console",
-					"h",
-					"handlemaket",
-					"hello",
-					"market",
-					"handleMarketChange",
-					"select",
-					"form",
-					"toolsStyle",
-					"time",
-					"fetchdata",
-					"put",
-					"json",
-					"img_url",
-					"地区",
-					"upload",
-					"upload_img",
-					"地区",
-					"地区名",
-					"地区名字",
-					"upload_time",
-					"error",
-					"begin",
-					"required",
-					"handleChange",
-					"ontri",
-					"ontr",
-					"onchange",
-					"switch",
-					"handleChange",
-					"onchange",
-					"handleMarketChange",
-					"onchange",
-					"			<",
-					"handleMarketChange",
-					"handlemar",
-					"		\n",
-					"test",
-					"handleSubmit",
-					"handleMarketChange",
-					"BannerForm",
-					"market",
-					"test",
-					"onChange",
-					"handleChange",
-					"onchange",
-					"test",
-					"type",
-					"default",
-					"DICT.market",
-					"zh_TW",
-					"发布国家",
-					"fetchData",
-					"test",
-					"显示",
+					"1000",
 					"area",
-					"asyncValidate",
-					"required",
-					"validation",
-					"isShowSwitch",
-					"showtips",
-					"文件大小",
-					"						)\n1000 x 1000",
-					"1000 x 1000",
-					">\n",
-					"true",
-					"默认"
+					"200",
+					"markEt",
+					"market",
+					"areaName",
+					"area",
+					"areaName",
+					"area",
+					"market",
+					"area",
+					"mm",
+					"area",
+					"market",
+					"area",
+					"market",
+					"area",
+					"banners/list",
+					"setFetchData",
+					"area",
+					"market",
+					"area",
+					"market",
+					"area",
+					"request",
+					"market",
+					"area",
+					"delete",
+					"removeActivity",
+					"this.props.request",
+					"debugger",
+					"payment/products/update",
+					"handleSubmit",
+					"handleSubmitActive",
+					"200px",
+					"layout",
+					"type",
+					"File",
+					"layout",
+					"mode",
+					"layout",
+					"screenshots",
+					"icon",
+					"msgStyle",
+					"icon",
+					"market",
+					"update",
+					"handleSubmitActive",
+					"Card",
+					"successNotify",
+					"failNotify",
+					"payment/products/active/delete"
 				],
 				"highlight": true,
 				"in_selection": false,
-				"preserve_case": false,
+				"preserve_case": true,
 				"regex": false,
 				"replace_history":
 				[
+					"market",
+					"urlBase",
 					"handleSubmitActivity",
 					"li"
 				],
@@ -2276,24 +2866,69 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/joox-op/src/page/ad/apps/Edit.jsx",
+							"file": "/D/joox-op/TODO-derek.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 11477,
+								"buffer_size": 336,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										9645,
-										9645
+										268,
+										268
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 26
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/joox-op/src/page/ad/banner/List.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9740,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2301,37 +2936,103 @@
 									"origin_encoding": "UTF-8",
 									"syntax": "Packages/JSX/JSX.tmLanguage",
 									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
 								},
 								"translation.x": 0.0,
-								"translation.y": 8022.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"buffer": 2,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 695,
+								"buffer_size": 1464,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										692,
-										692
+										1463,
+										1463
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"vintage":
+									{
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
 									]
 								],
 								"settings":
 								{
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"vintage":
+									{
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2341,16 +3042,11 @@
 							"type": "text"
 						}
 					]
-				},
-				{
-					"sheets":
-					[
-					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 52.0
 			},
 			"input":
 			{
@@ -2365,18 +3061,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.888777188123,
 					1.0
 				],
 				"rows":
@@ -2395,11 +3084,11 @@
 				"height": 168.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1042,-113,46,1569",
+			"position": "0,2,3,-1,-1,-1,-1,1054,1961,63,3641",
 			"project": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 100.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2409,528 +3098,528 @@
 				"selected_items":
 				[
 					[
-						"apps/edit",
-						"src\\page\\ad\\apps\\Edit.jsx"
+						"ad/banner",
+						"src\\page\\ad\\banner\\List.jsx"
 					],
 					[
-						"form.jsx",
-						"joox-op\\node_modules\\duz\\components\\Form\\Form.jsx"
+						"ui.jsx",
+						"node_modules\\duz\\example\\UI.jsx"
 					],
 					[
-						"form",
-						"joox-op\\src\\components\\Form\\Form.jsx"
-					],
-					[
-						"dict.js",
-						"joox-op\\src\\tool\\dict.js"
-					],
-					[
-						"validation",
-						"src\\tool\\utils\\validation.js"
-					],
-					[
-						"lyrics/image/list",
-						"src\\page\\lyrics\\image\\List.jsx"
-					],
-					[
-						"lyrics/list",
+						"lyrics/font/list",
 						"src\\page\\lyrics\\font\\List.jsx"
 					],
 					[
-						"checkbox",
-						"src\\components\\Form\\Checkbox.jsx"
+						"form.jsx",
+						"node_modules\\duz\\components\\Form\\Form.jsx"
 					],
 					[
-						"tab.jsx",
-						"src\\components\\UI\\Tab.jsx"
+						"ugc/ac/list",
+						"src\\page\\ugc\\activity\\List.jsx"
 					],
 					[
-						"dict",
-						"src\\tool\\dict.js"
+						"config/config",
+						"src\\config\\api\\config.js"
 					],
 					[
-						"product/edit",
-						"src\\page\\payment\\product\\Edit.jsx"
+						"todo",
+						"TODO-derek.json"
 					],
 					[
-						"validta",
-						"src\\components\\Form\\validation.js"
+						"duz/component/ui/fial",
+						"node_modules\\duz\\components\\UI\\Fail.jsx"
 					],
 					[
-						"switch.jsx",
-						"src\\components\\Form\\Switch.jsx\\index.js"
+						"pagede",
+						"node_modules\\duz\\components\\Page\\pageDecorator.js"
 					],
 					[
-						"text.jsx",
-						"src\\components\\Form\\Text.jsx"
+						"cardplus",
+						"src\\components\\CardPlus.jsx"
 					],
 					[
-						"banner/lis",
+						"ad/banner/list",
+						"src\\page\\ad\\banner\\List.jsx"
+					],
+					[
+						"pay/banner/list",
 						"src\\page\\payment\\banner\\List.jsx"
-					],
-					[
-						"list.jsx",
-						"src\\page\\payment\\banner\\List.jsx"
-					],
-					[
-						"product/list.jsx",
-						"src\\page\\payment\\product\\List.jsx"
-					],
-					[
-						"validation.js",
-						"src\\tool\\utils\\validation.js"
-					],
-					[
-						"banner/list",
-						"src\\page\\payment\\banner\\List.jsx"
-					],
-					[
-						"tool/utils/validation",
-						"src\\tool\\utils\\validation.js"
-					],
-					[
-						"lyrics/font/edit",
-						"src\\page\\lyrics\\font\\Edit.jsx"
-					],
-					[
-						"field",
-						"src\\components\\Form\\Field.jsx"
-					],
-					[
-						"tool/disc",
-						"src\\tool\\dict.js"
-					],
-					[
-						"rules/edit",
-						"src\\page\\rules\\Edit.jsx"
-					],
-					[
-						"field.jsx",
-						"src\\components\\Form\\Field.jsx"
-					],
-					[
-						"getvalue",
-						"node_modules\\redux-form\\lib\\getValues.js"
-					],
-					[
-						"switch.jsx/",
-						"src\\components\\Form\\Switch.jsx\\index.js"
-					],
-					[
-						"singleareaedit",
-						"src\\page\\payment\\product\\components\\SingleAreaEdit.jsx"
-					],
-					[
-						"multiareaedit",
-						"src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
 					],
 					[
 						"payment/product/list",
 						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"",
-						"src\\page\\payment\\banner\\list.jsx"
+						"image/list",
+						"src\\page\\lyrics\\image\\List.jsx"
 					],
 					[
-						"lyrics/font",
-						"src\\page\\lyrics\\font\\List.jsx"
+						"rules/log",
+						"src\\page\\rules\\Log.jsx"
 					],
 					[
-						"lyric/font/list",
-						"src\\page\\lyrics\\font\\List.jsx"
+						"marketsj",
+						"src\\config\\markets.js"
 					],
 					[
-						"payment/product/edit",
-						"src\\page\\payment\\product\\Edit.jsx"
+						"rules/list",
+						"src\\page\\rules\\List.jsx"
+					],
+					[
+						"config/api/config",
+						"src\\config\\api\\config.js"
+					],
+					[
+						"/tool/auth",
+						"node_modules\\duz\\tool\\auth.js"
+					],
+					[
+						"ad/list",
+						"src\\page\\ad\\apps\\List.jsx"
+					],
+					[
+						"cardp",
+						"src\\components\\CardPlus.jsx"
+					],
+					[
+						"ad/apps/edi",
+						"src\\page\\ad\\apps\\Edit.jsx"
 					],
 					[
 						"index.jsx",
 						"src\\page\\drag\\index.jsx"
 					],
 					[
-						"payment/ei",
-						"src\\page\\payment\\product\\Edit.jsx"
+						"ad/apps/list",
+						"src\\page\\ad\\apps\\List.jsx"
 					],
 					[
-						"form/index.js",
-						"src\\components\\Form\\index.js"
+						"tool/auth",
+						"node_modules\\duz\\tool\\auth.js"
 					],
 					[
-						"lyrics/list.jsx",
-						"joox-op\\src\\page\\lyrics\\font\\List.jsx"
+						"config/markets",
+						"src\\config\\markets.js"
 					],
 					[
-						"nav.jsx",
-						"joox-op\\src\\page\\App.jsx\\Nav.jsx"
+						"config/api/config.js",
+						"src\\config\\api\\config.js"
+					],
+					[
+						"store/auth",
+						"node_modules\\duz\\tool\\store\\auth.js"
+					],
+					[
+						"__test__/",
+						"node_modules\\duz\\tool\\__test__\\auth.js"
+					],
+					[
+						"readonly",
+						"node_modules\\duz\\components\\Form\\readOnlyAuto.js"
+					],
+					[
+						"banner/edi",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"activity/",
+						"src\\page\\ugc\\activity\\Edit.jsx"
+					],
+					[
+						"activity/comme",
+						"src\\page\\ugc\\activity\\Comments.jsx"
+					],
+					[
+						"edit2",
+						"src\\page\\payment\\product\\Edit2.jsx"
 					],
 					[
 						"payment/edit",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"src\\page\\payment\\product\\Edit.jsx"
 					],
 					[
-						"multiarealist",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaList.jsx"
+						"tabform.sjx",
+						"node_modules\\duz\\components\\Form\\TabForm.jsx"
 					],
 					[
-						"payment/list",
-						"joox-op\\src\\page\\payment\\product\\List.jsx"
+						"activityt",
+						"src\\page\\ugc\\activity\\Edit.jsx"
 					],
 					[
-						"prod/list",
-						"joox-op\\src\\page\\payment\\product\\List.jsx"
+						"tabfomr",
+						"node_modules\\duz\\components\\Form\\TabForm.jsx"
 					],
 					[
-						"product/editjsx",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"style.css",
+						"src\\page\\App.jsx\\style.scss"
 					],
 					[
-						"paymn/edit",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"tabform.jsx",
+						"node_modules\\duz\\components\\Form\\TabForm.jsx"
+					],
+					[
+						"product/edit",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"apps/edit",
+						"src\\page\\ad\\apps\\Edit.jsx"
+					],
+					[
+						"banner/edit",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"payment/banner/list",
+						"src\\page\\payment\\banner\\List.jsx"
+					],
+					[
+						"duz/ui",
+						"node_modules\\duz\\example\\UI.jsx"
+					],
+					[
+						"routes/inde",
+						"src\\routes\\index.js"
+					],
+					[
+						"banner/list",
+						"src\\page\\payment\\banner\\List.jsx"
+					],
+					[
+						"apps/list",
+						"src\\page\\ad\\apps\\List.jsx"
+					],
+					[
+						"ad/bane",
+						"src\\page\\ad\\banner\\Edit.jsx"
+					],
+					[
+						"ad/banner/edit",
+						"src\\page\\ad\\banner\\Edit.jsx"
+					],
+					[
+						"iamge/list",
+						"src\\page\\lyrics\\image\\List.jsx"
 					],
 					[
 						"font/list",
-						"joox-op\\src\\page\\lyrics\\font\\List.jsx"
+						"src\\page\\lyrics\\font\\List.jsx"
 					],
 					[
-						"edit",
-						"joox-op\\src\\page\\rules\\Edit.jsx"
+						"ad/apps/edit",
+						"src\\page\\ad\\apps\\Edit.jsx"
 					],
 					[
-						"editjsx",
-						"joox-op\\src\\page\\rules\\Edit.jsx"
+						"apps/styl",
+						"src\\page\\App.jsx\\style.scss"
 					],
 					[
-						"payment/editx",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"filed/index",
+						"node_modules\\duz\\components\\Form\\Field\\index.js"
 					],
 					[
-						"payment/product",
-						"joox-op\\src\\page\\payment\\product\\Edit.jsx"
+						"ad.js",
+						"src\\config\\api\\ad.js"
 					],
 					[
-						"page/home",
-						"joox-op\\src\\page\\Home.jsx"
+						"payment.js",
+						"src\\config\\api\\payment.js"
 					],
 					[
-						"home.jsx",
-						"joox-op\\src\\page\\Home.jsx"
+						"payment/banner/edit",
+						"src\\page\\payment\\banner\\Edit.jsx"
 					],
 					[
-						"mulitareaedit",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
+						"paymnet/banner/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"multiareapageedit",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
+						"routes/ind",
+						"src\\routes\\index.js"
 					],
 					[
-						"textjsx",
-						"joox-op\\src\\components\\Form\\Text.jsx"
+						"router/inde",
+						"node_modules\\express\\lib\\router\\index.js"
 					],
 					[
-						"checkbo",
-						"joox-op\\src\\components\\Form\\Checkbox.jsx"
+						"router.js",
+						"node_modules\\react-router\\es6\\Router.js"
+					],
+					[
+						"apps.style",
+						"src\\page\\App.jsx\\style.scss"
+					],
+					[
+						"duz/form/file",
+						"node_modules\\duz\\components\\Form\\File\\index.js"
+					],
+					[
+						"file.jsx",
+						"src\\components\\ImageList.jsx\\File.jsx"
+					],
+					[
+						"imagelist/inde",
+						"src\\components\\ImageList.jsx\\index.js"
+					],
+					[
+						"user.js",
+						"src\\config\\store\\user.js"
+					],
+					[
+						"cardpl",
+						"src\\components\\CardPlus.jsx"
+					],
+					[
+						"auth",
+						"node_modules\\acorn\\AUTHORS"
+					],
+					[
+						"validtaion",
+						"node_modules\\duz\\tool\\validation.js"
+					],
+					[
+						"feature.js",
+						"node_modules\\duz\\tool\\store\\feature.js"
+					],
+					[
+						"ugc/activity/list",
+						"src\\page\\ugc\\activity\\List.jsx"
+					],
+					[
+						"dict",
+						"src\\config\\dict.js"
+					],
+					[
+						"duz/tool/auth",
+						"node_modules\\duz\\tool\\auth.js"
+					],
+					[
+						"payment/product/edit",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"tod",
+						"TODO-derek.json"
+					],
+					[
+						"payment/product/edi",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"rule/list",
+						"src\\page\\rules\\List.jsx"
+					],
+					[
+						"paymentbaner",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"routes/index",
+						"src\\routes\\index.js"
+					],
+					[
+						"rules/edit",
+						"src\\page\\rules\\Edit.jsx"
+					],
+					[
+						"dic.",
+						"src\\config\\dict.js"
+					],
+					[
+						"edit2.jsx",
+						"src\\page\\payment\\product\\Edit2.jsx"
+					],
+					[
+						"dere",
+						"TODO-derek.json"
+					],
+					[
+						"pay/bann/edi",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"imagelist/ind",
+						"src\\components\\ImageList.jsx\\index.js"
+					],
+					[
+						"imagelist.jsx",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"imagelist/file",
+						"src\\components\\ImageList.jsx\\File.jsx"
+					],
+					[
+						"payment",
+						"src\\config\\api\\payment.js"
+					],
+					[
+						"lyrics/font/edit",
+						"src\\page\\lyrics\\font\\Edit.jsx"
+					],
+					[
+						"pay/banner/edit",
+						"src\\page\\payment\\banner\\Edit.jsx"
+					],
+					[
+						"edit.jsx",
+						"src\\page\\rules\\Edit.jsx"
+					],
+					[
+						"payment/edit.jsx",
+						"src\\page\\payment\\product\\Edit.jsx"
+					],
+					[
+						"font/edit",
+						"src\\page\\lyrics\\font\\Edit.jsx"
+					],
+					[
+						"image/edit",
+						"src\\page\\lyrics\\image\\Edit.jsx"
+					],
+					[
+						"lyrics/image/list",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"lyric",
+						"src\\config\\api\\lyrics.js"
+					],
+					[
+						"activity/edi",
+						"src\\page\\ugc\\activity\\Edit.jsx"
+					],
+					[
+						"eidt.jsx",
+						"src\\page\\rules\\Edit.jsx"
+					],
+					[
+						"font/lis",
+						"src\\page\\lyrics\\font\\List.jsx"
+					],
+					[
+						"font/list.",
+						"src\\page\\lyrics\\font\\List.jsx"
+					],
+					[
+						"lyrics/iamge/list",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"lyrics.js",
+						"src\\config\\api\\lyrics.js"
+					],
+					[
+						"lyrics/imag/list",
+						"src\\page\\lyrics\\image\\List.jsx"
+					],
+					[
+						"dict.js",
+						"src\\config\\dict.js"
+					],
+					[
+						"form/static.",
+						"node_modules\\duz\\components\\Form\\Static.jsx"
+					],
+					[
+						"multiareaedit",
+						"src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
+					],
+					[
+						"api/",
+						"src\\config\\api\\activity.js"
+					],
+					[
+						"singleareaedit",
+						"src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
 					],
 					[
 						"multiarepage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
-					],
-					[
-						"multiarea",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaList.jsx"
-					],
-					[
-						"multipage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
-					],
-					[
-						"multiareapage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
-					],
-					[
-						"reduxform",
-						"joox-op\\node_modules\\redux-form\\dist\\redux-form.js"
-					],
-					[
-						"multiareapageed",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
+						"src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
 					],
 					[
 						"singlearea",
-						"joox-op\\src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
+						"src\\page\\payment\\product\\components\\SingleAreaEdit.jsx"
 					],
 					[
-						"multilist",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaList.jsx"
+						"multiarea",
+						"src\\page\\payment\\product\\components\\MultiAreaList.jsx"
 					],
 					[
-						"mulareapage",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaPageEdit.jsx"
+						"multiareae",
+						"src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
 					],
 					[
-						"multi",
-						"joox-op\\src\\page\\payment\\product\\components\\MultiAreaEdit.jsx"
+						"pay/bann/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"static",
-						"joox-op\\src\\components\\Form\\Static.jsx"
+						"payment/prodcut/list",
+						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"switch",
-						"joox-op\\src\\components\\Form\\Switch.jsx"
+						"marketcar",
+						"src\\components\\MarketCard.jsx"
 					],
 					[
-						"datetime",
-						"joox-op\\src\\components\\Form\\Datetime.jsx"
+						"product/list",
+						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"switchjsx",
-						"joox-op\\src\\components\\Form\\Switch.jsx"
+						"marketcard",
+						"src\\components\\MarketCard.jsx"
 					],
 					[
-						"singleareapageedi",
-						"joox-op\\src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
+						"market.jsx",
+						"src\\components\\market.jsx"
 					],
 					[
-						"formjsx",
-						"joox-op\\src\\components\\Form\\Form.jsx"
+						"payment/bann/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"singlareaedit",
-						"joox-op\\src\\page\\payment\\product\\components\\SingleAreaPageEdit.jsx"
+						"marketc",
+						"src\\components\\MarketCard.jsx"
 					],
 					[
-						"static.jsx",
-						"joox-op\\src\\components\\Form\\Static.jsx"
+						"",
+						".gitmodules"
 					],
 					[
-						"static.j",
-						"Sputnik\\app\\node_modules\\cheerio\\lib\\static.js"
+						"text.jsx",
+						"node_modules\\duz\\components\\Form\\Text.jsx"
 					],
 					[
-						"redux-form",
-						"joox-op\\node_modules\\redux-form\\dist\\redux-form.js"
+						"payment/list",
+						"src\\page\\payment\\product\\List.jsx"
 					],
 					[
-						"reduxfrom",
-						"joox-op\\node_modules\\redux-form\\lib\\createReduxForm.js"
+						"paymnet/list",
+						"src\\page\\payment\\banner\\List.jsx"
 					],
 					[
-						"datetimefield",
-						"joox-op\\node_modules\\react-bootstrap-datetimepicker\\lib\\DateTimeField.js"
+						"pagedeco",
+						"node_modules\\duz\\components\\Page\\pageDecorator.js"
 					],
 					[
-						"datetime.",
-						"joox-op\\src\\components\\Form\\Datetime.jsx"
+						"pagedecorator",
+						"node_modules\\duz\\components\\Page\\pageDecorator.js"
 					],
 					[
-						"tips",
-						"joox-op\\src\\components\\Form\\Tips.jsx"
-					],
-					[
-						"multiedit",
-						"joox-op\\src\\components\\Form\\MultiAreaEdit.jsx"
-					],
-					[
-						"index.js",
-						"wdw\\routes\\index.js"
-					],
-					[
-						"mutiarea",
-						"joox-op\\src\\components\\Form\\MultiAreaEdit.jsx"
-					],
-					[
-						"form.scss",
-						"joox-op\\node_modules\\bootstrap\\scss\\mixins\\_forms.scss"
-					],
-					[
-						"forms.scss",
-						"joox-op\\node_modules\\bootstrap\\scss\\_forms.scss"
-					],
-					[
-						"bootstra",
-						"joox-op\\node_modules\\bootstrap\\scss\\bootstrap.scss"
-					],
-					[
-						"vipcss",
-						"project\\express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"vip.ejs",
-						"project\\express\\src\\template\\vipService.ejs"
-					],
-					[
-						"report.js",
-						"project\\template\\app\\js\\report.js"
-					],
-					[
-						"report",
-						"project\\template\\app\\js\\report.js"
-					],
-					[
-						"fav.ejs",
-						"project\\express\\src\\template\\partials\\fav.ejs"
-					],
-					[
-						"header.es",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"fav.js",
-						"project\\express\\src\\template\\script\\fav.js"
-					],
-					[
-						"headerejs",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"basic.css",
-						"project\\express\\src\\template\\style\\basic.css"
-					],
-					[
-						"header",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"app.js",
-						"project\\express\\app.js"
-					],
-					[
-						"header.ejs",
-						"project\\express\\src\\template\\partials\\header.ejs"
-					],
-					[
-						"vipservice.ejs",
-						"project\\express\\src\\template\\vipService.ejs"
-					],
-					[
-						"page.js",
-						"project\\express\\src\\template\\script\\page.js"
-					],
-					[
-						"fav.je",
-						"project\\express\\src\\template\\partials\\fav.ejs"
-					],
-					[
-						"get_webpack_config",
-						"joox-op\\get_webpack_config.js"
-					],
-					[
-						"home.",
-						"joox-op\\src\\page\\Home.jsx"
-					],
-					[
-						"artist.ejs",
-						"project\\express\\src\\template\\artist.ejs"
-					],
-					[
-						"select",
-						"project\\express\\src\\template\\selected.ejs"
-					],
-					[
-						"route",
-						"wdw\\node_modules\\express\\lib\\router\\route.js"
-					],
-					[
-						"mymusic.js",
-						"project\\express\\routes\\myMusic.js"
-					],
-					[
-						"wdf",
-						"wdw\\wdf.py"
-					],
-					[
-						"joox.js",
-						"project\\express\\routes\\joox.js"
-					],
-					[
-						"n",
-						"Sputnik\\npm-debug.log"
-					],
-					[
-						"playlist.css",
-						"project\\template\\oa\\wallet\\css\\playlist.css"
-					],
-					[
-						"playranking.",
-						"project\\template\\oa\\wallet\\playranking.php"
-					],
-					[
-						"playranking.php",
-						"template\\oa\\wallet\\playranking.php"
-					],
-					[
-						"mymusic.ejs",
-						"express\\src\\template\\myMusic.ejs"
-					],
-					[
-						"mymusi",
-						"express\\routes\\myMusic.js"
-					],
-					[
-						"mymusic.css",
-						"express\\src\\template\\style\\myMusic.css"
-					],
-					[
-						"page.css",
-						"express\\src\\template\\style\\page.css"
-					],
-					[
-						"lang.css",
-						"express\\src\\template\\style\\lang.css"
-					],
-					[
-						"mymuscicss",
-						"express\\src\\template\\style\\myMusic.css"
-					],
-					[
-						"mymucss",
-						"express\\src\\template\\style\\myMusic.css"
-					],
-					[
-						"vipservicecss",
-						"express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"vipse",
-						"express\\src\\template\\vipService.ejs"
-					],
-					[
-						"vipservice",
-						"express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"hom",
-						"express\\src\\template\\home.ejs"
-					],
-					[
-						"jooxpla",
-						"express\\src\\template\\script\\jooxPlayer.js"
-					],
-					[
-						"vipservice.css",
-						"express\\src\\template\\style\\vipService.css"
-					],
-					[
-						"vipser",
-						"express\\src\\template\\vipService.ejs"
-					],
-					[
-						"mymuej",
-						"express\\src\\template\\myMusic.ejs"
+						"app.jsx/style",
+						"src\\page\\App.jsx\\style.scss"
 					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
@@ -2944,17 +3633,26 @@
 			"selected_group": 0,
 			"settings":
 			{
+				"_vintageous_last_buffer_search": "点dd击“编辑”后，出现的路由跳转问题",
+				"_vintageous_last_buffer_search_command": "vi_octothorp",
+				"_vintageous_last_char_search_command": "vi_f",
+				"_vintageous_last_character_search": "a",
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "C:\\Users\\Administrator\\AppData\\Roaming\\Sublime Text 3\\Packages\\User"
+				}
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 50.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 16,
+			"window_id": 27,
 			"workspace_name": ""
 		}
 	],

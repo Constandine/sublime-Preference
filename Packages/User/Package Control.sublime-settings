@@ -10,10 +10,12 @@
 		"Emmet",
 		"ES6-Toolkit",
 		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
 		"jQuery",
 		"jQuery Snippets pack",
 		"JsFormat",
 		"JSX",
+		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
 		"ReactJS",
@@ -21,7 +23,9 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SyncedSideBar",
 		"Theme - Soda",
-		"Theme - Vim Blackboard"
+		"Theme - Vim Blackboard",
+		"Vintageous"
 	]
 }
